@@ -1,0 +1,9 @@
+////////////////////////////////////////////////////////////////////////
+// Course: ITM-510-05                                                 //
+// Assignment: Ex 0.2 Create your program heading                     //
+// Date: 09/09/2023                                                   //
+// Student: Hendra Wijaya (A20529195)                                 //
+//                                                                    //
+// Here is my personal heading. In the future, every code submission  //
+// would include one of these in the top of the file.                 //
+////////////////////////////////////////////////////////////////////////
