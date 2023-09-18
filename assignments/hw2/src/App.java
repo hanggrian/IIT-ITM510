@@ -8,15 +8,12 @@
 // a randomly generated list.                                         //
 ////////////////////////////////////////////////////////////////////////
 
-package com.example;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 /**
- * Prints total, average, highest, and lowest of a list of integers. Triggered by
- * {@code ./gradle run}.
+ * Prints total, average, highest, and lowest of a list of integers.
  */
 public class App {
   private static final int LIST_SIZE = 200;

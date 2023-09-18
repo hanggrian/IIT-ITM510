@@ -1,10 +1,14 @@
 # Homework 1
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw1.png">
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw1/app.png">
 
 - `Employee` is a data class that holds employee's information.
 - `App` is a driver class that creates three `Employee` objects and displays
   their information.
+
+## Tests
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw1/test1.png">
 
 > ## Instructions
 >

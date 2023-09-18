@@ -1,10 +1,14 @@
 # Homework 2
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2.png">
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/app.png">
 
 - `ArrayLists` is a utility class that perform analytical calculation of a list.
 - `App` is a driver class that creates a list of random values and prints the
   result in standard output stream.
+
+## Tests
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/test1.png">
 
 > ## Instructions
 >

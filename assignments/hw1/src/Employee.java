@@ -1,4 +1,12 @@
-package com.example;
+////////////////////////////////////////////////////////////////////////
+// Course: ITM-510-05                                                 //
+// Assignment: Ex 6.1 Employee Class                                  //
+// Date: 12/09/2023                                                   //
+// Student: Hendra Wijaya (A20529195)                                 //
+//                                                                    //
+// Write an employee class with property name, ID, department, and    //
+// position.                                                          //
+////////////////////////////////////////////////////////////////////////
 
 import java.util.Objects;
 

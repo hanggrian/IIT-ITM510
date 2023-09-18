@@ -8,34 +8,32 @@
 // a randomly generated list.                                         //
 ////////////////////////////////////////////////////////////////////////
 
-package com.example;
-
-import static com.google.common.truth.Truth.assertThat;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
 public class ArrayListsTest {
   @Test
   public void getTotal() {
-    assertThat(ArrayLists.getTotal(new int[]{})).isEqualTo(0);
-    assertThat(ArrayLists.getTotal(new int[]{1, 2, 3})).isEqualTo(6);
+    assertEquals(0, ArrayLists.getTotal(new int[]{}));
+    assertEquals(6, ArrayLists.getTotal(new int[]{1, 2, 3}));
   }
 
   @Test
   public void getAverage() {
-    assertThat(ArrayLists.getAverage(new int[]{})).isEqualTo(Double.NaN);
-    assertThat(ArrayLists.getAverage(new int[]{1, 2, 3})).isEqualTo(2);
+    assertEquals(Double.NaN, ArrayLists.getAverage(new int[]{}), 0);
+    assertEquals(2, ArrayLists.getAverage(new int[]{1, 2, 3}), 0);
   }
 
   @Test
   public void getHighest() {
-    assertThat(ArrayLists.getHighest(new int[]{})).isEqualTo(Integer.MIN_VALUE);
-    assertThat(ArrayLists.getHighest(new int[]{1, 2, 3})).isEqualTo(3);
+    assertEquals(Integer.MIN_VALUE, ArrayLists.getHighest(new int[]{}));
+    assertEquals(3, ArrayLists.getHighest(new int[]{1, 2, 3}));
   }
 
   @Test
   public void getLowest() {
-    assertThat(ArrayLists.getLowest(new int[]{})).isEqualTo(Integer.MAX_VALUE);
-    assertThat(ArrayLists.getLowest(new int[]{1, 2, 3})).isEqualTo(1);
+    assertEquals(Integer.MAX_VALUE, ArrayLists.getLowest(new int[]{}));
+    assertEquals(1, ArrayLists.getLowest(new int[]{1, 2, 3}));
   }
 }

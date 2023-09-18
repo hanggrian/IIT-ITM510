@@ -8,8 +8,6 @@
 // a randomly generated list.                                         //
 ////////////////////////////////////////////////////////////////////////
 
-package com.example;
-
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Objects;
