@@ -17,7 +17,7 @@
 > 4. Press enter
 > 5. Take a screenshot of your version and submit the image.
 
-![](https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw0.png)
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw0/screenshot.png">
 
 ## 0.2 Create your program heading
 

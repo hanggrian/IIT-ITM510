@@ -1,18 +1,18 @@
 # Homework 1
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw1/app.png">
-
 - `Employee` is a data class that holds employee's information.
 - `App` is a driver class that creates three `Employee` objects and displays
   their information.
 
-## Tests
+## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw1/test1.png">
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw1/screenshot1.png"><br><small>Screenshot 1 &mdash; App</small>
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw1/screenshot2.png"><br><small>Screenshot 2 &mdash; Tests</small>
 
 > ## Instructions
 >
-> Employee Class
+> **Employee Class**
 >
 > Write a class named **Employee** that has the following fields:
 >
@@ -52,5 +52,5 @@
 >
 > ### Please submit the following:
 >
-> 1. The compressed (zipped) folder containing your **entire** project.
-> 2. A captured image of your screen showing your program’s output.
+> 1. The compressed (zipped) folder containing your **_entire_** project
+> 2. A captured image of your screen showing your program’s output

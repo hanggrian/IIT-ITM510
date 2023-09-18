@@ -1,18 +1,18 @@
 # Homework 2
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/app.png">
-
 - `ArrayLists` is a utility class that perform analytical calculation of a list.
 - `App` is a driver class that creates a list of random values and prints the
   result in standard output stream.
 
-## Tests
+## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/test1.png">
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/screenshot1.png"><br><small>Screenshot 1 &mdash; App</small>
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/screenshot2.png"><br><small>Screenshot 2 &mdash; Tests</small>
 
 > ## Instructions
 >
-> ArrayList Operations
+> **ArrayList Operations**
 >
 > Write a program with an ArrayList that is populated with at least 200 random
   values in the range of -50 to 150. Use any primitive data type of your choice.
@@ -31,5 +31,5 @@
 >
 > ### Please submit the following:
 >
-> 1. The compressed (zipped) folder containing your **entire** project.
-> 2. A captured image of your screen showing your program’s output.
+> 1. The compressed (zipped) folder containing your **_entire_** project
+> 2. A captured image of your screen showing your program’s output
