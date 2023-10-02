@@ -1,0 +1,11 @@
+[versions]
+jdk = "8"
+checkstyle = "8.45.1"
+
+[libraries]
+# lint
+checkstyle = { module = "com.puppycrawl.tools:checkstyle", version.ref = "checkstyle" }
+rulebook-checkstyle = "com.hendraanggrian.rulebook:rulebook-checkstyle:0.3"
+# test
+junit = "junit:junit:4.13.1"
+truth = "com.google.truth:truth:1.1.5"
