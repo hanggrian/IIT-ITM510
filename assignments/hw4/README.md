@@ -1,6 +1,6 @@
 # Homework 4
 
-- Multiple ways to add and remove items: top menu, context menu, and buttons.
+- Multiple ways to add and remove items (top menu, context menu, and buttons).
 - Use bindings to calculate total label and toggle UI states.
 
 ## Screenshots

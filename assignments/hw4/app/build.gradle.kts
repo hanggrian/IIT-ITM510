@@ -2,11 +2,14 @@ val RELEASE_GROUP: String by project
 
 plugins {
     java
+    alias(libs.plugins.javafx)
     application
     checkstyle
 }
 
 java.toolchain.languageVersion.set(JavaLanguageVersion.of(libs.versions.jdk.get()))
+
+javafx.modules("javafx.controls", "javafx.fxml")
 
 application.mainClass.set("$RELEASE_GROUP.App")
 
@@ -19,6 +22,5 @@ dependencies {
     checkstyle(libs.checkstyle)
     checkstyle(libs.rulebook.checkstyle)
 
-    testImplementation(libs.junit)
     testImplementation(libs.truth)
 }

@@ -34,7 +34,9 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 /**
- * Main Java runner and also JavaFX controller.
+ * Main Java application runner and also JavaFX FXML controller. Cannot be run using
+ * {@link App#main(String[])} without JavaFX classpath in the configuration. Instead, execute the
+ * program using {@code ./gradlew run}.
  */
 public class App extends Application implements Initializable {
   private static final double SCALE_TIP = 0.18;
