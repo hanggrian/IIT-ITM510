@@ -1,2 +1,15 @@
+# macOS
 **/.DS_Store
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IDEA
+*.iml
+.idea/
+out/
+
+# VSCode
 bin/
