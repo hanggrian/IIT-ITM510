@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////
 // Course: ITM-510-05                                                 //
 // Assignment: Ex 12.1 Tip, Tax, and Total                            //
-// Date: 09/02/2023                                                   //
+// Date: 02/10/2023                                                   //
 // Student: Hendra Wijaya (A20529195)                                 //
 //                                                                    //
 // Single-window JavaFX app that takes food orders and calculate      //

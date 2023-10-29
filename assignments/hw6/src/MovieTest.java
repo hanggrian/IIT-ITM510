@@ -1,10 +1,11 @@
 ////////////////////////////////////////////////////////////////////////
 // Course: ITM-510-05                                                 //
-// Assignment: Movie Library                                          //
-// Date: 16/10/2023                                                   //
+// Assignment: Movie Library 2.0                                      //
+// Date: 29/10/2023                                                   //
 // Student: Hendra Wijaya (A20529195)                                 //
 //                                                                    //
-// A self-repeating CLI application that manages movie library.       //
+// A recursive CLI app that manages movie library using MVC design    //
+// pattern.                                                           //
 ////////////////////////////////////////////////////////////////////////
 
 import static org.junit.Assert.assertThrows;

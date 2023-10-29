@@ -3,7 +3,6 @@
 - Multi-layered recursions:
   - Main menu &mdash; runs endlessly unless explicitly stopped.
   - User prompts &mdash; ensures every input is valid.
-- Pre-defined movie genres kept in an augmented enumeration.
 
 ## Diagrams
 

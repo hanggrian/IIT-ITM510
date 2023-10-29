@@ -1,19 +1,20 @@
 ////////////////////////////////////////////////////////////////////////
 // Course: ITM-510-05                                                 //
-// Assignment: Movie Library                                          //
-// Date: 16/10/2023                                                   //
+// Assignment: Movie Library 2.0                                      //
+// Date: 29/10/2023                                                   //
 // Student: Hendra Wijaya (A20529195)                                 //
 //                                                                    //
-// A self-repeating CLI application that manages movie library.       //
+// A recursive CLI app that manages movie library using MVC design    //
+// pattern.                                                           //
 ////////////////////////////////////////////////////////////////////////
 
+import java.io.Serializable;
 import java.util.Objects;
 
 /**
- * Data class that represents a movie. The properties have no getters because it's only meant to be
- * displayed with {@link #toString()}.
+ * Data class that represents a movie.
  */
-public class Movie {
+public class Movie implements Serializable {
   public static final int MIN_YEAR = 1900;
   public static final int MAX_YEAR = 2100;
   public static final int MIN_RUNTIME = 1;
@@ -31,7 +32,7 @@ public class Movie {
    * @param title movie name, cannot be empty.
    * @param director staff name, cannot be empty.
    * @param year release time.
-   * @param genre film category separated by '|', cannot be empty.
+   * @param genre film category, cannot be empty.
    * @param runtime duration in minutes.
    */
   public Movie(String title, String director, int year, String genre, int runtime) {
@@ -91,14 +92,14 @@ public class Movie {
   }
 
   /**
-   * @return film category separated by '|', never empty.
+   * @return film category, never empty.
    */
   public String getGenre() {
     return genre;
   }
 
   /**
-   * @param genre film category separated by '|', cannot be empty.
+   * @param genre film category, cannot be empty.
    */
   public void setGenre(String genre) {
     this.genre = Objects.requireNonNull(genre);

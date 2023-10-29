@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////
 // Course: ITM-510-05                                                 //
 // Assignment: Movie Library                                          //
-// Date: 09/16/2023                                                   //
+// Date: 16/10/2023                                                   //
 // Student: Hendra Wijaya (A20529195)                                 //
 //                                                                    //
 // A self-repeating CLI application that manages movie library.       //
@@ -20,11 +20,11 @@ import java.util.List;
 public class App {
   private static final String FILENAME = "movieDb.txt";
 
-  private static ScannerWrapper scanner;
+  private static RecursiveScanner scanner;
   private static List<Movie> movies;
 
   public static void main(String[] args) {
-    scanner = new ScannerWrapper();
+    scanner = new RecursiveScanner();
     movies = new ArrayList<>();
 
     try (BufferedReader br = new BufferedReader(new FileReader(FILENAME))) {
@@ -60,7 +60,7 @@ public class App {
         + "3 - Update a movie\n"
         + "4 - Delete a movie\n"
         + "5 - Exit\n");
-    int input = scanner.readInt("What would you do?", 1, 5);
+    int input = scanner.scanInt("What would you do?", 1, 5);
 
     System.out.println();
     switch (input) {
@@ -88,11 +88,11 @@ public class App {
    */
   private static void create() {
     movies.add(0, new Movie(
-        scanner.read("(1/5) What is the movie title?"),
-        scanner.read("(2/5) Who is the director?"),
-        scanner.readInt("(3/5) When was it released?", Movie.MIN_YEAR, Movie.MAX_YEAR),
-        scanner.read("(4/5) What is the genre?"),
-        scanner.readInt("(5/5) How long is the duration, in minutes?",
+        scanner.scan("(1/5) What is the movie title?"),
+        scanner.scan("(2/5) Who is the director?"),
+        scanner.scanInt("(3/5) When was it released?", Movie.MIN_YEAR, Movie.MAX_YEAR),
+        scanner.scan("(4/5) What is the genre?"),
+        scanner.scanInt("(5/5) How long is the duration, in minutes?",
             Movie.MIN_RUNTIME, Movie.MAX_RUNTIME)
     ));
     System.out.println("Added!\n");
@@ -128,7 +128,7 @@ public class App {
           movie.getGenre(),
           movie.getRuntime()
       );
-      input = scanner.readChar("Where to go, in N/P/Q?", 'N', 'P', 'Q');
+      input = scanner.scanChar("Where to go, in N/P/Q?", 'N', 'P', 'Q');
       if (input == 'N') {
         index = index == movies.size() - 1 ? 0 : index + 1;
       } else if (input == 'P') {
@@ -152,7 +152,7 @@ public class App {
     // ask for movie
     System.out.println("Updating movies:");
     listMovies();
-    int input = scanner.readInt("Which movie to update?", 1, movies.size());
+    int input = scanner.scanInt("Which movie to update?", 1, movies.size());
     Movie movie = movies.get(input - 1);
 
     // ask for property
@@ -161,21 +161,21 @@ public class App {
         + "3 - Release date\n"
         + "4 - Genre\n"
         + "5 - Runtime");
-    switch (scanner.readInt("What to update?", 1, 5)) {
+    switch (scanner.scanInt("What to update?", 1, 5)) {
       case 1:
-        movie.setTitle(scanner.read("What is the movie title?"));
+        movie.setTitle(scanner.scan("What is the movie title?"));
         break;
       case 2:
-        movie.setDirector(scanner.read("Who is the director?"));
+        movie.setDirector(scanner.scan("Who is the director?"));
         break;
       case 3:
-        movie.setYear(scanner.readInt("When was it released?", Movie.MIN_YEAR, Movie.MAX_YEAR));
+        movie.setYear(scanner.scanInt("When was it released?", Movie.MIN_YEAR, Movie.MAX_YEAR));
         break;
       case 4:
-        movie.setGenre(scanner.read("What is the genre?"));
+        movie.setGenre(scanner.scan("What is the genre?"));
         break;
       default:
-        movie.setRuntime(scanner.readInt("How long is the duration, in minutes?",
+        movie.setRuntime(scanner.scanInt("How long is the duration, in minutes?",
             Movie.MIN_RUNTIME, Movie.MAX_RUNTIME));
         break;
     }
@@ -195,10 +195,10 @@ public class App {
     // ask for movie
     System.out.println("Deleting movies:");
     listMovies();
-    int input = scanner.readInt("Which movie to delete?", 1, movies.size());
+    int input = scanner.scanInt("Which movie to delete?", 1, movies.size());
 
     // ask for confirmation
-    char confirm = scanner.readChar("Are you sure, in Y/N?", 'Y', 'N');
+    char confirm = scanner.scanChar("Are you sure, in Y/N?", 'Y', 'N');
     if (confirm == 'y' || confirm == 'Y') {
       movies.remove(input - 1);
       System.out.println("Deleted!\n");
