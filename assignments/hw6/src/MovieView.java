@@ -76,7 +76,7 @@ public class MovieView {
   /**
    * Ask user a sequence of prompts to create a new movie instance.
    */
-  public Movie requestMovie() {
+  public Movie getMovieInfo() {
     return new Movie(
         scanner.scan("(1/5) What is the movie title?"),
         scanner.scan("(2/5) Who is the director?"),
@@ -93,7 +93,7 @@ public class MovieView {
    *
    * @param movies all items.
    */
-  public int requestIndex(List<Movie> movies) {
+  public int getMovieIndex(List<Movie> movies) {
     return scanner.scanInt("Select the movie number:", 1, movies.size()) - 1;
   }
 }

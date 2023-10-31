@@ -47,7 +47,7 @@ public class MovieController {
    *
    * @see Movie#Movie
    */
-  public void create(String title, String director, int year, String genre, int runtime) {
+  public void createMovie(String title, String director, int year, String genre, int runtime) {
     movieList.add(new Movie(title, director, year, genre, runtime));
     currentIndex = movieList.size() - 1;
     System.out.println("Added!\n");
@@ -59,7 +59,7 @@ public class MovieController {
    * @param index must be in range of collection.
    * @see Movie#Movie
    */
-  public void update(
+  public void updateMovie(
       int index,
       String title,
       String director,
@@ -84,7 +84,7 @@ public class MovieController {
    *
    * @param index must be in range of collection.
    */
-  public void delete(int index) {
+  public void deleteMovie(int index) {
     if (index < 0 || index >= movieList.size()) {
       throw new IllegalArgumentException();
     }
@@ -102,7 +102,7 @@ public class MovieController {
   /**
    * Returns a movie based on current counter.
    */
-  public Movie get() {
+  public Movie getCurrentMovie() {
     if (movieList.isEmpty()) {
       return null;
     }
@@ -112,7 +112,7 @@ public class MovieController {
   /**
    * Returns the current counter.
    */
-  public int getIndex() {
+  public int getCurrentMovieIndex() {
     return currentIndex;
   }
 
@@ -133,7 +133,7 @@ public class MovieController {
   /**
    * Returns the movie collection as array list.
    */
-  public List<Movie> asList() {
+  public List<Movie> getMovieList() {
     return movieList;
   }
 
@@ -142,7 +142,7 @@ public class MovieController {
    *
    * @param filename file name with extension.
    */
-  public void saveFile(String filename) {
+  public void saveDataToFile(String filename) {
     try (ObjectOutputStream stream = new ObjectOutputStream(new FileOutputStream(filename))) {
       stream.writeObject(movieList);
     } catch (IOException e) {
@@ -155,7 +155,7 @@ public class MovieController {
    *
    * @param filename file name with extension.
    */
-  public void loadFile(String filename) {
+  public void loadDataFromFile(String filename) {
     try (ObjectInputStream stream = new ObjectInputStream(new FileInputStream(filename))) {
       Object obj = stream.readObject();
       if (obj instanceof ArrayList) {

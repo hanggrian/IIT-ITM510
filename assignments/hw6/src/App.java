@@ -43,8 +43,8 @@ public class App {
     System.out.println("Welcome to Movie Library!\n");
     if (new File(FILENAME_DAT).exists()) {
       System.out.printf("Old %s found:%n", FILENAME_DAT);
-      controller.loadFile(FILENAME_DAT);
-      view.displayMovies(controller.asList());
+      controller.loadDataFromFile(FILENAME_DAT);
+      view.displayMovies(controller.getMovieList());
     } else {
       System.out.printf("No old data, use 1. RESET to fetch data from %s.%n%n", FILENAME_TXT);
     }
@@ -55,12 +55,12 @@ public class App {
     int action = view.displayMenu();
     switch (action) {
       case ACTION_RESET:
-        controller = new MovieController(loadMovies(FILENAME_TXT));
+        controller = new MovieController(loadData(FILENAME_TXT));
         System.out.println("Reset!\n");
         break;
       case ACTION_CREATE:
-        Movie newMovie = view.requestMovie();
-        controller.create(
+        Movie newMovie = view.getMovieInfo();
+        controller.createMovie(
             newMovie.getTitle(),
             newMovie.getDirector(),
             newMovie.getYear(),
@@ -71,14 +71,17 @@ public class App {
       case ACTION_READ:
       case ACTION_UPDATE:
       case ACTION_DELETE:
-        if (controller.asList().isEmpty()) {
+        if (controller.getMovieList().isEmpty()) {
           System.out.println("Empty library.\n");
           break;
         }
         if (action == ACTION_READ) {
           char navigation = 0;
           while (navigation != 'Q') {
-            navigation = view.displayNavigation(controller.asList(), controller.getIndex());
+            navigation = view.displayNavigation(
+              controller.getMovieList(),
+              controller.getCurrentMovieIndex()
+            );
             if (navigation == 'N') {
               controller.navigateNext();
             } else if (navigation == 'P') {
@@ -88,11 +91,11 @@ public class App {
           System.out.println();
         } else if (action == ACTION_UPDATE) {
           System.out.println("Updating movies:");
-          view.displayMovies(controller.asList());
+          view.displayMovies(controller.getMovieList());
 
-          int index = view.requestIndex(controller.asList());
-          Movie updatedMovie = view.requestMovie();
-          controller.update(
+          int index = view.getMovieIndex(controller.getMovieList());
+          Movie updatedMovie = view.getMovieInfo();
+          controller.updateMovie(
               index,
               updatedMovie.getTitle(),
               updatedMovie.getDirector(),
@@ -102,14 +105,14 @@ public class App {
           );
         } else {
           System.out.println("Deleting movies:");
-          view.displayMovies(controller.asList());
+          view.displayMovies(controller.getMovieList());
 
-          int index = view.requestIndex(controller.asList());
-          controller.delete(index);
+          int index = view.getMovieIndex(controller.getMovieList());
+          controller.deleteMovie(index);
         }
         break;
       default:
-        controller.saveFile(FILENAME_DAT);
+        controller.saveDataToFile(FILENAME_DAT);
         System.out.printf("%s stored, goodbye!%n", FILENAME_DAT);
         System.exit(0);
         break;
@@ -117,7 +120,7 @@ public class App {
     start();
   }
 
-  private static List<Movie> loadMovies(String filename) {
+  private static List<Movie> loadData(String filename) {
     List<Movie> movieList = new ArrayList<>();
     try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
       String line;

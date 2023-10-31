@@ -51,6 +51,8 @@
 > 4. will allow the user to delete a movie.
 > 5. will cause the application to exit.
 >
+> **Instructions**
+>
 > Add your program heading to the code. Add comments where necessary in the body
   of the code so that the code will be well commented.
 >
