@@ -7,15 +7,15 @@
 - `App` is a driver class that generates random accounts and keeps them in a
   self-sorting set.
 
-## Diagrams
-
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw3/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
-
 ## Screenshots
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw3/screenshot1.png"><br><small>Screenshot 1 &mdash; App</small>
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw3/screenshot2.png"><br><small>Screenshot 2 &mdash; Tests</small>
+
+## Diagrams
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw3/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >

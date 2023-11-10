@@ -4,10 +4,6 @@
 - Bindings make the GUI responsive to user input.
 - Use file picker to save and load file.
 
-## Diagrams
-
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
-
 ## Screenshots
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state, empty library</small>
@@ -21,6 +17,10 @@
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot5.png"><br><small>Screenshot 5 &mdash; Delete state</small>
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot6.png"><br><small>Screenshot 6 &mdash; Safeguarding measure</small>
+
+## Diagrams
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >

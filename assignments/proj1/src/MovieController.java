@@ -18,6 +18,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.List;
+import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -29,7 +30,7 @@ import javafx.collections.ObservableList;
  */
 public class MovieController {
   private final ObservableList<Movie> movieList;
-  private final SimpleIntegerProperty currentMovieIndex = new SimpleIntegerProperty();
+  private final IntegerProperty currentMovieIndex = new SimpleIntegerProperty();
 
   /**
    * New instance with empty collection.
@@ -115,7 +116,7 @@ public class MovieController {
   /**
    * Returns the current counter.
    */
-  public SimpleIntegerProperty getCurrentMovieIndex() {
+  public IntegerProperty getCurrentMovieIndex() {
     return currentMovieIndex;
   }
 

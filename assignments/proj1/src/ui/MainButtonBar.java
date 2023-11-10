@@ -22,12 +22,12 @@ import javafx.scene.control.ButtonBar;
  * Parent of buttons placed at the bottom of the main window.
  */
 public class MainButtonBar extends ButtonBar {
-  // Navigation
+  // navigation
   public final Button previous = new Button("<");
   public final Button next = new Button(">");
-  // Default
+  // default
   public final Button save = new Button("Save");
-  // Others
+  // others
   public final Button create = new Button("New");
   public final Button edit = new Button("Edit");
   public final Button delete = new Button("Delete");

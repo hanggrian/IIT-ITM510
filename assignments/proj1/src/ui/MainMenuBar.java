@@ -16,6 +16,7 @@ import static javafx.scene.input.KeyCode.END;
 import static javafx.scene.input.KeyCode.HOME;
 import static javafx.scene.input.KeyCode.M;
 import static javafx.scene.input.KeyCode.N;
+import static javafx.scene.input.KeyCode.O;
 import static javafx.scene.input.KeyCode.PAGE_DOWN;
 import static javafx.scene.input.KeyCode.PAGE_UP;
 import static javafx.scene.input.KeyCode.Q;
@@ -32,28 +33,29 @@ import javafx.scene.input.KeyCodeCombination;
  * Parent of menus placed at the center of the main window.
  */
 public class MainMenuBar extends MenuBar {
-  // File
-  public final MenuItem saveFile = new MenuItem("Save");
-  public final MenuItem loadFile = new MenuItem("Load");
+  // file
+  public final MenuItem saveFile = new MenuItem("Save...");
+  public final MenuItem loadFile = new MenuItem("Load...");
   public final MenuItem quit = new MenuItem("Quit");
-  // Edit
+  // edit
   public final MenuItem resetAll = new MenuItem("Reset All");
   public final MenuItem create = new MenuItem("New");
   public final MenuItem edit = new MenuItem("Edit");
   public final MenuItem delete = new MenuItem("Delete");
   public final MenuItem save = new MenuItem("Save");
-  // View
+  // view
   public final MenuItem previous = new MenuItem("Previous");
   public final MenuItem next = new MenuItem("Next");
   public final MenuItem goToStart = new MenuItem("Go to Start");
   public final MenuItem goToEnd = new MenuItem("Go to End");
-  // Window
+  // window
   public final MenuItem minimize = new MenuItem("Minimize");
-  // About
+  // help
   public final MenuItem about = new MenuItem("About");
 
   public MainMenuBar() {
     saveFile.setAccelerator(new KeyCodeCombination(S, SHORTCUT_DOWN));
+    loadFile.setAccelerator(new KeyCodeCombination(O, SHORTCUT_DOWN));
     quit.setAccelerator(new KeyCodeCombination(Q, SHORTCUT_DOWN));
     create.acceleratorProperty().bind(
         when(create.textProperty().isEqualTo("New"))

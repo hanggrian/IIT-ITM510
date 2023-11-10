@@ -6,10 +6,6 @@
 - Use barebone MVC design pattern.
 - Saving and loading movies from a binary file.
 
-## Diagrams
-
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
-
 ## Screenshots
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state, resetting movies and saving to file</small>
@@ -23,6 +19,10 @@
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot5.png"><br><small>Screenshot 5 &mdash; Deleting a movie</small>
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot6.png"><br><small>Screenshot 6 &mdash; Safeguarding measures</small>
+
+## Diagrams
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >

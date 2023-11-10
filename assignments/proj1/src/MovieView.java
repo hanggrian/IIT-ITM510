@@ -9,7 +9,7 @@
 ////////////////////////////////////////////////////////////////////////
 
 import static javafx.beans.binding.Bindings.and;
-import static javafx.beans.binding.Bindings.createObjectBinding;
+import static javafx.beans.binding.Bindings.createStringBinding;
 import static javafx.beans.binding.Bindings.equal;
 import static javafx.beans.binding.Bindings.isEmpty;
 import static javafx.beans.binding.Bindings.notEqual;
@@ -43,10 +43,10 @@ import ui.MainMenuBar;
 public class MovieView extends VBox {
   public final ObjectProperty<State> currentState = new SimpleObjectProperty<>(State.READ);
 
-  public Label indicator = new Label();
-  public MainMenuBar menus = new MainMenuBar();
-  public MainGridPane texts = new MainGridPane();
-  public MainButtonBar buttons = new MainButtonBar();
+  public final Label indicator = new Label();
+  public final MainMenuBar menus = new MainMenuBar();
+  public final MainGridPane texts = new MainGridPane();
+  public final MainButtonBar buttons = new MainButtonBar();
 
   public MovieView() {
     indicator.setPadding(new Insets(5));
@@ -66,7 +66,7 @@ public class MovieView extends VBox {
    * @param index  guaranteed to be in bounds.
    */
   public void bindControls(ObservableList<Movie> movies, IntegerProperty index) {
-    indicator.textProperty().bind(createObjectBinding(() -> movies.isEmpty()
+    indicator.textProperty().bind(createStringBinding(() -> movies.isEmpty()
         ? "Empty"
         : String.format("#%d / %d", index.get() + 1, movies.size()), movies, index));
 

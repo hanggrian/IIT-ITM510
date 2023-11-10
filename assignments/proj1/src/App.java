@@ -37,7 +37,7 @@ public class App extends Application {
   private Movie lastMovie; // when user cancel, text fields will revert back to this value
 
   public static void main(String[] args) {
-    Application.launch(App.class, args);
+    launch(App.class, args);
   }
 
   @Override
@@ -64,6 +64,7 @@ public class App extends Application {
     view.bindControls(controller.getMovieList(), controller.getCurrentMovieIndex());
 
     view.menus.quit.setOnAction(event -> Platform.exit());
+    view.menus.minimize.setOnAction(event -> stage.setIconified(true));
 
     view.menus.saveFile.setOnAction(event -> {
       File file = chooser.showSaveDialog(stage);
@@ -182,10 +183,8 @@ public class App extends Application {
       view.displayMovie(controller.getCurrentMovie());
     });
 
-    view.menus.minimize.setOnAction(event -> stage.setIconified(true));
-
     view.menus.about.setOnAction(event ->
-        Alerts.info("JavaFX GUI that manages movie library with MVC design pattern")
+        Alerts.info("JavaFX GUI that manages movie library with MVC design pattern.")
     );
   }
 

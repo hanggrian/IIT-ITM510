@@ -4,10 +4,6 @@
   - Main menu &mdash; runs endlessly unless explicitly stopped.
   - User prompts &mdash; ensures every input is valid.
 
-## Diagrams
-
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
-
 ## Screenshots
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot1.png"><br><small>Screenshot 1 &mdash; Creating a movie</small>
@@ -19,6 +15,10 @@
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot4.png"><br><small>Screenshot 4 &mdash; Deleting a movie</small>
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot5.png"><br><small>Screenshot 5 &mdash; Safeguarding measures</small>
+
+## Diagrams
+
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
