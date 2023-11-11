@@ -100,7 +100,7 @@ public class PictureView extends GridPane {
         list.clear,
         isEmpty(list.getItems()));
 
-    list.import2Placeholder.onActionProperty().bind(list.import2.onActionProperty());
+    list.placeholder.onActionProperty().bind(list.import2.onActionProperty());
   }
 
   private void bindMenuToButton(MenuItem menu, Button button, BooleanBinding disabilityBinding) {

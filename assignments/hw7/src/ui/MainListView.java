@@ -31,11 +31,11 @@ public class MainListView extends ListView<File> {
   public final MenuItem remove = new MenuItem("Remove");
   public final MenuItem clear = new MenuItem("Clear");
   // placeholder
-  public final Hyperlink import2Placeholder = new Hyperlink("Import...");
+  public final Hyperlink placeholder = new Hyperlink("Import...");
 
   public MainListView() {
     setContextMenu(new ContextMenu(import2, change, new SeparatorMenuItem(), remove, clear));
-    setPlaceholder(import2Placeholder);
+    setPlaceholder(placeholder);
     setMinWidth(200);
     setMaxWidth(200);
     getSelectionModel().setSelectionMode(SINGLE);
