@@ -101,7 +101,7 @@
 >
 > 1. a private field called `setHeight` that is a `double` data type
 > 2. a public method with a parameter of data type `double` that does not return
-     a value
+    a value
 > 3. a public field called `setHeight` that is a `double` data type
 > 4. a private method with no parameters that returns a `double` data type
 
