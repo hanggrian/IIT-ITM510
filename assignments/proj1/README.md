@@ -8,13 +8,13 @@
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state, empty library</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot2.png"><br><small>Screenshot 2 &mdash; Read state, loaded file from txt</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot2.png"><br><small>Screenshot 2 &mdash; READ state, loaded file from txt</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot3.png"><br><small>Screenshot 3 &mdash; Create state</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot3.png"><br><small>Screenshot 3 &mdash; CREATE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot4.png"><br><small>Screenshot 4 &mdash; Update state</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot4.png"><br><small>Screenshot 4 &mdash; UPDATE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot5.png"><br><small>Screenshot 5 &mdash; Delete state</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot5.png"><br><small>Screenshot 5 &mdash; DELETE state</small>
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot6.png"><br><small>Screenshot 6 &mdash; Safeguarding measure</small>
 

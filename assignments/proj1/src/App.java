@@ -130,8 +130,7 @@ public class App extends Application {
                 view.texts.director.getText(),
                 view.texts.year.getValue(),
                 view.texts.genre.getText(),
-                view.texts.runtime.getValue()
-            );
+                view.texts.runtime.getValue());
             break;
           case UPDATE:
             controller.updateMovie(
@@ -140,8 +139,7 @@ public class App extends Application {
                 view.texts.director.getText(),
                 view.texts.year.getValue(),
                 view.texts.genre.getText(),
-                view.texts.runtime.getValue()
-            );
+                view.texts.runtime.getValue());
             break;
         }
         view.currentState.set(State.READ);
@@ -184,8 +182,7 @@ public class App extends Application {
     });
 
     view.menus.about.setOnAction(event ->
-        Alerts.info("JavaFX GUI that manages movie library with MVC design pattern.")
-    );
+        Alerts.info("JavaFX GUI that manages movie library with MVC design pattern."));
   }
 
   private static List<Movie> loadMovies(String filename) {
@@ -206,8 +203,7 @@ public class App extends Application {
       }
     } catch (IOException e) {
       throw new RuntimeException(
-          String.format("Error loading file %s: %s%n", filename, e.getMessage())
-      );
+          String.format("Error loading file %s: %s%n", filename, e.getMessage()));
     }
     return movieList;
   }

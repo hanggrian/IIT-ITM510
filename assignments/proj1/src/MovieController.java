@@ -178,8 +178,7 @@ public class MovieController {
       stream.writeObject(new ArrayList<>(movieList));
     } catch (IOException e) {
       throw new RuntimeException(
-          String.format("Error saving serializable %s: %s%n", file.getName(), e.getMessage())
-      );
+          String.format("Error saving serializable %s: %s%n", file.getName(), e.getMessage()));
     }
   }
 
@@ -198,8 +197,7 @@ public class MovieController {
       }
     } catch (IOException | ClassNotFoundException e) {
       throw new RuntimeException(
-          String.format("Error loading serializable %s: %s%n", file.getName(), e.getMessage())
-      );
+          String.format("Error loading serializable %s: %s%n", file.getName(), e.getMessage()));
     }
   }
 }
