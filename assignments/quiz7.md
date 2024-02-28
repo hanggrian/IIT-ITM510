@@ -22,7 +22,7 @@
 > 3. may not implement interfaces that are generic
 > 4. None of the above
 
-**B**. may not create instances of any of its type parameters
+**B.** may not create instances of any of its type parameters
 
 ## Problem 2
 
@@ -36,7 +36,7 @@
 > 3. `Point<? extends Number>`
 > 4. `Point<? sub Number>`
 
-**C**. `Point<? extends Number>`
+**C.** `Point<? extends Number>`
 
 ## Problem 3
 
@@ -47,7 +47,7 @@
 > 3. You can declare references to arrays whose elements are of a generic type
 > 4. All of the above
 
-**C**. You can declare references to arrays whose elements are of a generic type
+**C.** You can declare references to arrays whose elements are of a generic type
 
 ## Problem 4
 
@@ -60,7 +60,7 @@
     compilation
 > 4. deleting generic types that cannot be correctly resolved during compilation
 
-**C**. replacing generic types with their upper bound, or with Object, during
+**C.** replacing generic types with their upper bound, or with Object, during
     compilation
 
 ## Problem 5
@@ -74,7 +74,7 @@
 > 3. `Point<? extends Number>`
 > 4. `Point<? sub Number>`
 
-**B**. `Point<? super Number>`
+**B.** `Point<? super Number>`
 
 ## Problem 6
 
@@ -86,7 +86,7 @@
 > 3. autoconversion
 > 4. autoboxing
 
-**D**. autoboxing
+**D.** autoboxing
 
 ## Problem 7
 
@@ -102,7 +102,7 @@
 > 3. is incorrect because it is missing the wildcard symbol
 > 4. None of the above
 
-**A**. is a correct way to extend a class
+**A.** is a correct way to extend a class
 
 ## Problem 8
 
@@ -113,7 +113,7 @@
 > 3. increased type-safety without the need to do typecasts at run time
 > 4. faster execution of programs that use generics
 
-**C**. increased type-safety without the need to do typecasts at run time
+**C.** increased type-safety without the need to do typecasts at run time
 
 ## Problem 9
 
@@ -142,7 +142,7 @@
 > 3. will compile and run correctly
 > 4. None of the above
 
-**A**. will cause a compiler error
+**A.** will cause a compiler error
 
 ## Problem 10
 
@@ -154,4 +154,4 @@
 > 3. substitution
 > 4. masking
 
-**A**. erasure
+**A.** erasure

@@ -20,7 +20,7 @@
 > 3. instance methods
 > 4. dinstance variables
 
-**C**. instance methods
+**C.** instance methods
 
 ## Problem 2
 
@@ -33,7 +33,7 @@
 > 3. object, method
 > 4. cookie, cake
 
-**A**. class, object
+**A.** class, object
 
 ## Problem 3
 
@@ -44,7 +44,7 @@
 > 3. collection
 > 4. attachment
 
-**A**. package
+**A.** package
 
 ## Problem 4
 
@@ -55,7 +55,7 @@
 > 3. the method in which it is defined
 > 4. inside the parentheses of a method header
 
-**B**. the instance methods of the same class
+**B.** the instance methods of the same class
 
 ## Problem 5
 
@@ -67,7 +67,7 @@
 > 3. `string str = "Hello, World"`;
 > 4. `String str = "Hello, World"`;
 
-**D**. `String str = "Hello, World"`;
+**D.** `String str = "Hello, World"`;
 
 ## Problem 6
 
@@ -78,7 +78,7 @@
 > 3. \*
 > 4. \#
 
-**A**. \+
+**A.** \+
 
 ## Problem 7
 
@@ -89,7 +89,7 @@
 > 3. The constructor
 > 4. Encapsulation
 
-**D**. Encapsulation
+**D.** Encapsulation
 
 ## Problem 8
 
@@ -105,7 +105,7 @@
 > 3. a public field called `setHeight` that is a `double` data type
 > 4. a private method with no parameters that returns a `double` data type
 
-**B**. a public method with a parameter of data type `double` that does not
+**B.** a public method with a parameter of data type `double` that does not
 return a value
 
 ## Problem 9
@@ -118,7 +118,7 @@ return a value
 > 3. using the private access specifier on the class fields
 > 4. using the private access specifier on the class methods
 
-**C**. using the private access specifier on the class fields
+**C.** using the private access specifier on the class fields
 
 ## Problem 10
 
@@ -127,7 +127,7 @@ return a value
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 11
 
@@ -137,7 +137,7 @@ return a value
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 12
 
@@ -147,4 +147,4 @@ return a value
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False

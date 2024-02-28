@@ -23,7 +23,7 @@ See supplemental content:
 > 3. Replace manual testing
 > 4. Enhance code execution speed
 
-**B**. Improve code readability and maintainability
+**B.** Improve code readability and maintainability
 
 ## Problem 2
 
@@ -34,9 +34,9 @@ See supplemental content:
 > 3. Improve code maintainability
 > 4. Simplify code writing
 
-- **A**. Automate the testing process
-- **C**. Improve code maintainability
-- **D**. Simplify code writing
+- **A.** Automate the testing process
+- **C.** Improve code maintainability
+- **D.** Simplify code writing
 
 ## Problem 3
 
@@ -47,7 +47,7 @@ See supplemental content:
 > 3. Generate code documentation
 > 4. All of the above
 
-**B**. Automate the testing process
+**B.** Automate the testing process
 
 ## Problem 4
 
@@ -58,7 +58,7 @@ See supplemental content:
 > 3. Control the visibility of annotations
 > 4. Specify the annotation type
 
-**A**. Configure the retention policy of annotations
+**A.** Configure the retention policy of annotations
 
 ## Problem 5
 
@@ -69,7 +69,7 @@ See supplemental content:
 > 3. `@Unit`
 > 4. `@Method`
 
-**B**. `@Test`
+**B.** `@Test`
 
 ## Problem 6
 
@@ -80,7 +80,7 @@ See supplemental content:
 > 3. Marks a test method to be ignored during test execution.
 > 4. Enables parallel execution for the annotated test.
 
-**C**. Marks a test method to be ignored during test execution.
+**C.** Marks a test method to be ignored during test execution.
 
 ## Problem 7
 
@@ -90,7 +90,7 @@ See supplemental content:
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 8
 
@@ -100,7 +100,7 @@ See supplemental content:
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 9
 
@@ -109,7 +109,7 @@ See supplemental content:
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 10
 
@@ -119,4 +119,4 @@ See supplemental content:
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True

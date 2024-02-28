@@ -25,7 +25,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 2
 
@@ -35,7 +35,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 3
 
@@ -45,7 +45,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 4
 
@@ -56,7 +56,7 @@
 > 3. `static`
 > 4. `boolean`
 
-**A**. `final`
+**A.** `final`
 
 ## Problem 5
 
@@ -68,7 +68,7 @@
 > 3. with an accompanying parallel array
 > 4. when only a very small number of values need to be stored
 
-**B**. with an accompanying integer value that holds the number of items stored
+**B.** with an accompanying integer value that holds the number of items stored
 
 ## Problem 6
 
@@ -116,7 +116,7 @@
 > }
 > ```
 
-**A**.
+**A.**
 
 ```java
 for (int row = 0; row < numbers.length; row++) {
@@ -146,7 +146,7 @@ for (int row = 0; row < numbers.length; row++) {
 > 4. The value variable will contain the average of all the values in the
      numbers array.
 
-**B**. The value variable will contain the lowest value in the numbers array.
+**B.** The value variable will contain the lowest value in the numbers array.
 
 ## Problem 8
 
@@ -157,7 +157,7 @@ for (int row = 0; row < numbers.length; row++) {
 > 3. `1`
 > 4. `100`
 
-**B**. `0`
+**B.** `0`
 
 ## Problem 9
 
@@ -168,7 +168,7 @@ for (int row = 0; row < numbers.length; row++) {
 > 3. `1`
 > 4. `0`
 
-**D**. `0`
+**D.** `0`
 
 ## Problem 10
 
@@ -180,7 +180,7 @@ for (int row = 0; row < numbers.length; row++) {
 > 3. argument
 > 4. subscript
 
-**D**. subscript
+**D.** subscript
 
 ## Problem 11
 
@@ -201,7 +201,7 @@ for (int row = 0; row < numbers.length; row++) {
 > 3. 190
 > 4. 170
 
-**B**. 180
+**B.** 180
 
 ## Problem 12
 
@@ -221,4 +221,4 @@ for (int row = 0; row < numbers.length; row++) {
 > 3. `a = 8`
 > 4. `a = 10`
 
-**A**. `a = 5`
+**A.** `a = 5`

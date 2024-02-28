@@ -25,7 +25,7 @@
 > 3. the scene will automatically be resized to fit the image
 > 4. the image will automatically be resized to fit the window
 
-**A**. only part of the image will be displayed.
+**A.** only part of the image will be displayed.
 
 ## Problem 2
 
@@ -37,10 +37,10 @@
 > 3. GIF
 > 4. PNG
 
-- **A**. BMP
-- **B**. JPEG
-- **C**. GIF
-- **D**. PNG
+- **A.** BMP
+- **B.** JPEG
+- **C.** GIF
+- **D.** PNG
 
 ## Problem 3
 
@@ -56,9 +56,9 @@
 > 3. A `Scene` object named `scene` will be created.
 > 4. The root node is `hbox`.
 
-- **A**. The width of the scene will be 100 pixels.
-- **C**. A `Scene` object named `scene` will be created.
-- **D**. The root node is `hbox`.
+- **A.** The width of the scene will be 100 pixels.
+- **C.** A `Scene` object named `scene` will be created.
+- **D.** The root node is `hbox`.
 
 ## Problem 4
 
@@ -77,7 +77,7 @@
 > 5. Nothing; it is not possible to include a path to a file when using the
      `Image` class.
 
-**C**. It loads an image file named `terrier.jpg` which is found in the `images`
+**C.** It loads an image file named `terrier.jpg` which is found in the `images`
 
 ## Problem 5
 
@@ -89,7 +89,7 @@
 > 3. lambda expressions
 > 4. listener expressions
 
-- **C**. anonymous inner classes
+- **C.** anonymous inner classes
 
 ## Problem 6
 
@@ -98,7 +98,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 7
 
@@ -108,7 +108,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 8
 
@@ -141,7 +141,7 @@
 > CheckBox checkOne("pizza") = setSelected(true);
 > ```
 
-**B**. 2.
+**B.** 2.
 
 ## Problem 9
 
@@ -152,7 +152,7 @@
 > 3. `text-area`
 > 4. `text`
 
-**B**. `text-field`
+**B.** `text-field`
 
 ## Problem 10
 
@@ -164,7 +164,7 @@
 > 3. `ToggleGroup`
 > 4. `ExcludeGroup`
 
-**C**. `ToggleGroup`
+**C.** `ToggleGroup`
 
 ## Problem 11
 
@@ -176,7 +176,7 @@
 > 3. `Slider slider = new Slider(1.0, 20.0, 1.0);`
 > 4. `Slider slider = new Slider(1.0, 20);`
 
-**C**. `Slider slider = new Slider(1.0, 20.0, 1.0);`
+**C.** `Slider slider = new Slider(1.0, 20.0, 1.0);`
 
 ## Problem 12
 
@@ -198,7 +198,7 @@ None of the above.
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 14
 
@@ -207,4 +207,4 @@ None of the above.
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True

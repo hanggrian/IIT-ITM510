@@ -18,7 +18,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 2
 
@@ -28,7 +28,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 3
 
@@ -38,7 +38,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 4
 
@@ -64,7 +64,7 @@
 > 3. 1
 > 4. 99
 
-**B**. 0
+**B.** 0
 
 ## Problem 5
 
@@ -99,7 +99,7 @@
 > DataOutputStream binaryOutputFile = new DataOutputStream(fstream, true);
 > ```
 
-**C**. 3
+**C.** 3
 
 ## Problem 6
 
@@ -110,7 +110,7 @@
 > 3. `getDefaultMessage()`
 > 4. `getDefaultErrorMessage()`
 
-**A**. `getMessage()`
+**A.** `getMessage()`
 
 ## Problem 7
 
@@ -121,7 +121,7 @@
 > 3. serial file
 > 4. raw data file
 
-**A**. binary file
+**A.** binary file
 
 ## Problem 8
 
@@ -136,7 +136,7 @@
 > 3. It prints the error message for an exception.
 > 4. It overrides the tostring method.
 
-**C**. It prints the error message for an exception.
+**C.** It prints the error message for an exception.
 
 ## Problem 9
 
@@ -175,7 +175,7 @@
 > 3. 35.5
 > 4. 75.0
 
-**C**. 35.5
+**C.** 35.5
 
 ## Problem 10
 
@@ -187,7 +187,7 @@
 > 3. never used directly
 > 4. None of these
 
-**B**. an unchecked exception class
+**B.** an unchecked exception class
 
 ## Problem 11
 
@@ -199,7 +199,7 @@
 > 3. default exception handler
 > 4. `try` statement
 
-**C**. default exception handler
+**C.** default exception handler
 
 ## Problem 12
 
@@ -210,4 +210,4 @@
 > 3. integers
 > 4. data
 
-**A**. bytes
+**A.** bytes

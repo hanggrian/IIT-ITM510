@@ -20,7 +20,7 @@
 >
 > 1. The superclass constructor always executes before the subclass constructor
 
-**A**. The superclass constructor always executes before the subclass constructor.
+**A.** The superclass constructor always executes before the subclass constructor.
 
 ## Problem 2
 
@@ -29,7 +29,7 @@
 > 2. the more general classes are toward the top of the tree and the more
      specialized classes are toward the bottom
 
-**B**. the more general classes are toward the top of the tree and the more
+**B.** the more general classes are toward the top of the tree and the more
        specialized classes are toward the bottom
 
 ## Problem 3
@@ -39,7 +39,7 @@
 >
 > 1. `instanceOf`
 
-**A**. `instanceOf`
+**A.** `instanceOf`
 
 ## Problem 4
 
@@ -48,7 +48,7 @@
 >
 > 3. package
 
-**C**. package
+**C.** package
 
 ## Problem 5
 
@@ -77,7 +77,7 @@
 >
 > 1. This is an error and will cause the program to crash.
 
-**A**. This is an error and will cause the program to crash.
+**A.** This is an error and will cause the program to crash.
 
 ## Problem 6
 
@@ -86,7 +86,7 @@
 >
 > 2. lambda
 
-**B**. lambda
+**B.** lambda
 
 ## Problem 7
 
@@ -94,7 +94,7 @@
 >
 > 3. only public and protected members of the superclass
 
-**C**. only public and protected members of the superclass
+**C.** only public and protected members of the superclass
 
 ## Problem 8
 
@@ -102,7 +102,7 @@
 >
 > 3. `extends`
 
-**C**. `extends`
+**C.** `extends`
 
 ## Problem 9
 
@@ -118,7 +118,7 @@
 >
 > 1. Line 4
 
-**A**. Line 4
+**A.** Line 4
 
 ## Problem 10
 
@@ -128,7 +128,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 11
 
@@ -138,7 +138,7 @@
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 12
 
@@ -147,4 +147,4 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
