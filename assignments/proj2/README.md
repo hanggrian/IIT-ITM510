@@ -6,7 +6,7 @@
 
 ## Wireframes
 
-<img width="480" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/wireframe1.png"><br><small>Wireframe 1 &mdash; Main window</small>
+<img width="480" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/wireframe1.svg"><br><small>Wireframe 1 &mdash; Main window</small>
 
 ## Screenshots
 
@@ -28,7 +28,7 @@
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
@@ -69,7 +69,8 @@
 >
 > **Create**
 >
-> - The text of the New button should change to "Cancel New" in <span style="color: red;">**red**</span>.
+> - The text of the New button should change to "Cancel New" in
+    <span style="color: red;">**red**</span>.
 > - All text fields should become empty.
 > - The Previous, Edit, Delete and Next buttons should be disabled.
 > - If the user clicks Cancel New, the GUI View should return to 'Read' state.
@@ -95,7 +96,8 @@
 >
 > **Update**
 >
-> - The text of the Edit button should change to "Cancel Edit" in <span style="color: red;">**red**</span>.
+> - The text of the Edit button should change to "Cancel Edit" in
+    <span style="color: red;">**red**</span>.
 > - The Previous, New, Delete and Next buttons should be disabled.
 > - If the user clicks Cancel, the GUI View should return to 'Read' state.
 > - If the user clicks Save, the movie data should be updated and the GUI View
@@ -103,7 +105,8 @@
 >
 > **Delete**
 >
-> - The text of the Delete button should change to "Yes, delete" in <span style="color: red;">**red**</span>.
+> - The text of the Delete button should change to "Yes, delete" in
+    <span style="color: red;">**red**</span>.
 > - The New, Edit and Save buttons should be disabled.
 > - If the user clicks Previous or Next, the GUI View should return to 'Read'
     state.
@@ -126,6 +129,6 @@
 >
 > ### Please submit the following:
 >
-> 1. Captured images of your screen showing your program performing each CRUD
-     action.
-> 2. The compressed (zipped) folder containing your **_entire_** project
+> 1.   Captured images of your screen showing your program performing each CRUD
+      action.
+> 1.   The compressed (zipped) folder containing your **_entire_** project

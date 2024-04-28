@@ -18,7 +18,7 @@
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
@@ -81,5 +81,5 @@
 >
 > ### Please submit the following:
 >
-> 1. A captured image of your screen showing your program’s output
-> 2. The compressed (zipped) folder containing your **_entire_** project
+> 1.   A captured image of your screen showing your program’s output
+> 1.   The compressed (zipped) folder containing your **_entire_** project

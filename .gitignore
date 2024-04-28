@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+._*
+
+# VSCode
+bin/
+
+# draw.io
+.$*.drawio*

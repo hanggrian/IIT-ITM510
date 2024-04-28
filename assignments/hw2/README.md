@@ -31,5 +31,5 @@
 >
 > ### Please submit the following:
 >
-> 1. The compressed (zipped) folder containing your **_entire_** project
-> 2. A captured image of your screen showing your program’s output
+> 1.   The compressed (zipped) folder containing your **_entire_** project
+> 1.   A captured image of your screen showing your program’s output

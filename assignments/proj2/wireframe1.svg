@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="425" viewBox="0 0 750 425">
+  <defs>
+    <filter id="Rectangle" x="513.5" y="366.5" width="107" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="519.5" y="373" width="95" height="36.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="518" y="372" width="98" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-wireframe1">
+      <rect width="750" height="425"/>
+    </clipPath>
+  </defs>
+  <g id="wireframe1" clip-path="url(#clip-wireframe1)">
+    <rect width="750" height="425" fill="#fff"/>
+    <g id="Group_4" data-name="Group 4">
+      <g id="Rectangle_1" data-name="Rectangle 1" fill="#e0e0e0" stroke="#707070" stroke-width="1">
+        <rect width="750" height="30" stroke="none"/>
+        <rect x="0.5" y="0.5" width="749" height="29" fill="none"/>
+      </g>
+      <text id="File" transform="translate(20 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">File</tspan></text>
+      <text id="Edit" transform="translate(62 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Edit</tspan></text>
+      <text id="View" transform="translate(106 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">View</tspan></text>
+      <text id="Window" transform="translate(156 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Window</tspan></text>
+      <text id="Help" transform="translate(227 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Help</tspan></text>
+    </g>
+    <text id="Caption" transform="translate(375 53)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="-18.747" y="0">#7 / 9</tspan></text>
+    <g id="Group_13" data-name="Group 13">
+      <g id="Light_Text_fields_2._Outlined_6_States_" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(178 111)">
+        <g id="_Container_l_Color" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="470" height="35" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="469" height="34" rx="3.5" fill="none"/>
+        </g>
+        <text id="_Input_text" data-name="✏️ Input text" transform="translate(16.5 22.5)" fill="rgba(0,0,0,0.74)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">5551234567</tspan></text>
+      </g>
+      <text id="Caption-2" data-name="Caption" transform="translate(102 134)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">Phone:</tspan></text>
+    </g>
+    <g id="Light_Button_2._Outlined_A._Text_Enabled" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" transform="translate(638 373)">
+      <g id="Container">
+        <g id="_Color" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="92" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="91" height="31" rx="3.5" fill="none"/>
+        </g>
+        <g id="_States" data-name="↳ 💡States">
+          <rect id="States_Light_Surface_containers_Primary_Content" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+        </g>
+      </g>
+      <text id="_Label" data-name="↳ ✏️ Label" transform="translate(16 8)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="-3.644" y="13">&gt;</tspan></text>
+    </g>
+    <g id="Light_Button_2._Outlined_A._Text_Enabled-2" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" transform="translate(20 373)">
+      <g id="Container-2" data-name="Container">
+        <g id="_Color-2" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="92" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="91" height="31" rx="3.5" fill="none"/>
+        </g>
+        <g id="_States-2" data-name="↳ 💡States">
+          <rect id="States_Light_Surface_containers_Primary_Content-2" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+        </g>
+      </g>
+      <text id="_Label-2" data-name="↳ ✏️ Label" transform="translate(16 8)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="-3.558" y="13">&lt;</tspan></text>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(37)">
+      <g id="Light_Button_2._Outlined_A._Text_Enabled-3" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" transform="translate(131 373)">
+        <g id="Container-3" data-name="Container">
+          <g id="_Color-3" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+            <rect width="92" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="31" rx="3.5" fill="none"/>
+          </g>
+          <g id="_States-3" data-name="↳ 💡States">
+            <rect id="States_Light_Surface_containers_Primary_Content-3" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+          </g>
+        </g>
+        <text id="_Label-3" data-name="↳ ✏️ Label" transform="translate(16 8)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="-16.333" y="13">NEW</tspan></text>
+      </g>
+      <g id="Light_Button_2._Outlined_A._Text_Enabled-4" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" transform="translate(233 373)">
+        <g id="Container-4" data-name="Container">
+          <g id="_Color-4" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+            <rect width="92" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="31" rx="3.5" fill="none"/>
+          </g>
+          <g id="_States-4" data-name="↳ 💡States">
+            <rect id="States_Light_Surface_containers_Primary_Content-4" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+          </g>
+        </g>
+        <text id="_Label-4" data-name="↳ ✏️ Label" transform="translate(16 8)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="-16.525" y="13">EDIT</tspan></text>
+      </g>
+      <g id="Light_Button_2._Outlined_A._Text_Enabled-5" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" transform="translate(335 373)">
+        <g id="Container-5" data-name="Container">
+          <g id="_Color-5" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+            <rect width="92" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="31" rx="3.5" fill="none"/>
+          </g>
+          <g id="_States-5" data-name="↳ 💡States">
+            <rect id="States_Light_Surface_containers_Primary_Content-5" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+          </g>
+        </g>
+        <text id="_Label-5" data-name="↳ ✏️ Label" transform="translate(16 8)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="-27.666" y="13">DELETE</tspan></text>
+      </g>
+    </g>
+    <g id="Light_Button_3._Contained_A._Text_Enabled" data-name="Light 🌕/ Button/3. Contained/A. Text/Enabled" transform="translate(521 373)">
+      <g id="Container-6" data-name="Container">
+        <g id="Light_Elevation_02dp" data-name="Light 🌕/Elevation/02dp">
+          <g id="Shadow" style="mix-blend-mode: multiply;isolation: isolate">
+            <g transform="matrix(1, 0, 0, 1, -521, -373)" filter="url(#Rectangle)">
+              <rect id="Rectangle-4" data-name="Rectangle" width="92" height="32" rx="4" transform="translate(521 373)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -521, -373)" filter="url(#Rectangle-2)">
+              <rect id="Rectangle-5" data-name="Rectangle" width="92" height="32" rx="4" transform="translate(521 373)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -521, -373)" filter="url(#Rectangle-3)">
+              <rect id="Rectangle-6" data-name="Rectangle" width="92" height="32" rx="4" transform="translate(521 373)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <rect id="_Color-6" data-name="↳ 🎨 Color" width="92" height="32" rx="4" fill="#6200ee"/>
+        <g id="_States-6" data-name="↳ 💡States">
+          <rect id="States_Light_Primary_Container_100_Overlay" data-name="States/Light 🌕/Primary Container 100%/Overlay" width="92" height="32" rx="4" fill="rgba(255,255,255,0)"/>
+        </g>
+      </g>
+      <text id="_Label-6" data-name="↳ ✏️ Label" transform="translate(16 8)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="-18.976" y="13">SAVE</tspan></text>
+    </g>
+    <g id="Group_12" data-name="Group 12">
+      <g id="Light_Text_fields_2._Outlined_6_States_2" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(178 66)">
+        <g id="_Container_l_Color-2" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="310" height="35" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="309" height="34" rx="3.5" fill="none"/>
+        </g>
+        <text id="_Input_text-2" data-name="✏️ Input text" transform="translate(16.5 22.5)" fill="rgba(0,0,0,0.74)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">John</tspan></text>
+      </g>
+      <text id="Caption-3" data-name="Caption" transform="translate(102 89)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">Name:</tspan></text>
+      <g id="Light_Text_fields_2._Outlined_6_States_3" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(498 66)">
+        <g id="_Container_l_Color-3" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="150" height="35" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="149" height="34" rx="3.5" fill="none"/>
+        </g>
+        <text id="_Input_text-3" data-name="✏️ Input text" transform="translate(16.5 22.5)" fill="rgba(0,0,0,0.74)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">Doe</tspan></text>
+      </g>
+    </g>
+    <g id="Light_Text_fields_2._Outlined_6_States_4" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(178 156)">
+      <g id="_Container_l_Color-4" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+        <rect width="150" height="35" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="34" rx="3.5" fill="none"/>
+      </g>
+      <text id="_Input_text-4" data-name="✏️ Input text" transform="translate(16.5 22.5)" fill="rgba(0,0,0,0.74)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">4th Street</tspan></text>
+    </g>
+    <text id="Caption-4" data-name="Caption" transform="translate(102 179)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">Location:</tspan></text>
+    <g id="Light_Text_fields_2._Outlined_6_States_5" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(338 156)">
+      <g id="_Container_l_Color-5" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+        <rect width="150" height="35" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="34" rx="3.5" fill="none"/>
+      </g>
+      <text id="_Input_text-5" data-name="✏️ Input text" transform="translate(16.5 22.5)" fill="rgba(0,0,0,0.74)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">Long Beach</tspan></text>
+    </g>
+    <text id="Caption-5" data-name="Caption" transform="translate(102 314)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">Hired:</tspan></text>
+    <g id="Light_Text_fields_1._Filled_A._No_leading_icon_Activated" data-name="Light 🌕/ Text fields/1. Filled/ A. No leading icon / Activated" transform="translate(178 291)">
+      <g id="Light_Elevation_00dp" data-name="Light 🌕/Elevation/00dp">
+        <rect id="Rectangle-7" data-name="Rectangle" width="200" height="33.833" fill="#fff" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+      <path id="_Container_l_Color-6" data-name="🔲🎨 Container l Color" d="M4,0H196a4,4,0,0,1,4,4V35a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" fill="rgba(0,0,0,0.04)"/>
+      <path id="_States-7" data-name="💡States" d="M4,0H196a4,4,0,0,1,4,4V33.833a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" fill="rgba(0,0,0,0.12)"/>
+      <g id="Trailing_icon" data-name="Trailing icon" transform="translate(164 4.917)">
+        <rect id="Boundary" width="24" height="24" fill="none"/>
+        <path id="calendar_month_FILL0_wght400_GRAD0_opsz24" d="M122.2-858a2.118,2.118,0,0,1-1.554-.646A2.118,2.118,0,0,1,120-860.2v-15.4a2.118,2.118,0,0,1,.646-1.554,2.118,2.118,0,0,1,1.554-.646h1.1V-880h2.2v2.2h8.8V-880h2.2v2.2h1.1a2.118,2.118,0,0,1,1.554.646,2.118,2.118,0,0,1,.646,1.554v15.4a2.118,2.118,0,0,1-.646,1.554A2.118,2.118,0,0,1,137.6-858Zm0-2.2h15.4v-11H122.2Zm0-13.2h15.4v-2.2H122.2Zm0,0v0Zm7.7,6.6a1.064,1.064,0,0,1-.784-.316,1.064,1.064,0,0,1-.316-.784,1.064,1.064,0,0,1,.316-.784A1.064,1.064,0,0,1,129.9-869a1.064,1.064,0,0,1,.784.316,1.064,1.064,0,0,1,.316.784,1.064,1.064,0,0,1-.316.784A1.064,1.064,0,0,1,129.9-866.8Zm-4.4,0a1.064,1.064,0,0,1-.784-.316,1.064,1.064,0,0,1-.316-.784,1.064,1.064,0,0,1,.316-.784A1.064,1.064,0,0,1,125.5-869a1.064,1.064,0,0,1,.784.316,1.064,1.064,0,0,1,.316.784,1.064,1.064,0,0,1-.316.784A1.064,1.064,0,0,1,125.5-866.8Zm8.8,0a1.064,1.064,0,0,1-.784-.316,1.064,1.064,0,0,1-.316-.784,1.064,1.064,0,0,1,.316-.784A1.064,1.064,0,0,1,134.3-869a1.064,1.064,0,0,1,.784.316,1.064,1.064,0,0,1,.316.784,1.064,1.064,0,0,1-.316.784A1.064,1.064,0,0,1,134.3-866.8Zm-4.4,4.4a1.064,1.064,0,0,1-.784-.316,1.064,1.064,0,0,1-.316-.784,1.064,1.064,0,0,1,.316-.784,1.064,1.064,0,0,1,.784-.316,1.064,1.064,0,0,1,.784.316,1.064,1.064,0,0,1,.316.784,1.064,1.064,0,0,1-.316.784A1.064,1.064,0,0,1,129.9-862.4Zm-4.4,0a1.064,1.064,0,0,1-.784-.316,1.064,1.064,0,0,1-.316-.784,1.064,1.064,0,0,1,.316-.784,1.064,1.064,0,0,1,.784-.316,1.064,1.064,0,0,1,.784.316,1.064,1.064,0,0,1,.316.784,1.064,1.064,0,0,1-.316.784A1.064,1.064,0,0,1,125.5-862.4Zm8.8,0a1.064,1.064,0,0,1-.784-.316,1.064,1.064,0,0,1-.316-.784,1.064,1.064,0,0,1,.316-.784,1.064,1.064,0,0,1,.784-.316,1.064,1.064,0,0,1,.784.316,1.064,1.064,0,0,1,.316.784,1.064,1.064,0,0,1-.316.784A1.064,1.064,0,0,1,134.3-862.4Z" transform="translate(-117.9 881)" fill="rgba(0,0,0,0.6)"/>
+      </g>
+      <text id="_Input_text-6" data-name="✏️ Input text" transform="translate(16 22)" fill="rgba(0,0,0,0.87)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">dd/MM/YYYY</tspan></text>
+    </g>
+    <g id="Group_18" data-name="Group 18">
+      <g id="Light_Text_fields_2._Outlined_6_States_6" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(178 201)">
+        <g id="_Container_l_Color-7" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="310" height="35" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="309" height="34" rx="3.5" fill="none"/>
+        </g>
+        <text id="_Input_text-7" data-name="✏️ Input text" transform="translate(16.5 22.5)" fill="rgba(0,0,0,0.74)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">Clerk</tspan></text>
+      </g>
+      <text id="Caption-6" data-name="Caption" transform="translate(102 224)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">Employee:</tspan></text>
+      <g id="Light_Text_fields_2._Outlined_6_States_7" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(517 201)">
+        <g id="_Container_l_Color-8" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="131" height="35" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="130" height="34" rx="3.5" fill="none"/>
+        </g>
+        <text id="_Input_text-8" data-name="✏️ Input text" transform="translate(16.5 21.5)" fill="rgba(0,0,0,0.74)" font-size="13" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">7</tspan></text>
+      </g>
+      <text id="Caption-7" data-name="Caption" transform="translate(498 224)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">#</tspan></text>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(0 45)">
+      <g id="Light_Text_fields_2._Outlined_6_States_8" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(178 201)">
+        <g id="_Container_l_Color-9" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="310" height="35" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="309" height="34" rx="3.5" fill="none"/>
+        </g>
+        <text id="_Input_text-9" data-name="✏️ Input text" transform="translate(16.5 22.5)" fill="rgba(0,0,0,0.74)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">Operations</tspan></text>
+      </g>
+      <text id="Caption-8" data-name="Caption" transform="translate(102 224)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">Company:</tspan></text>
+      <g id="Light_Text_fields_2._Outlined_6_States_9" data-name="Light 🌕/ Text fields/2. Outlined/ (6 States)" transform="translate(517 201)">
+        <g id="_Container_l_Color-10" data-name="🔲🎨 Container l Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="131" height="35" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="130" height="34" rx="3.5" fill="none"/>
+        </g>
+        <text id="_Input_text-10" data-name="✏️ Input text" transform="translate(16.5 21.5)" fill="rgba(0,0,0,0.74)" font-size="13" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="0" y="0">19.5</tspan></text>
+      </g>
+      <text id="Caption-9" data-name="Caption" transform="translate(498 224)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">$</tspan></text>
+    </g>
+    <g id="Light_Menus_2_States_Exposed_Dropdown_Above" data-name="Light 🌕/ Menus/(2 States) Exposed Dropdown/ Above" transform="translate(498 156)">
+      <rect id="Rectangle-8" data-name="Rectangle" width="150" height="35" rx="4" fill="#fff" stroke="rgba(112,112,112,0.3)" stroke-width="1"/>
+      <g id="Light_Lists_Single-line_Body_2_w_right_icon" data-name="Light 🌕/ Lists/Single-line/Body 2 w/ right icon" transform="translate(16 6)">
+        <g id="icon_navigation_arrow_drop_down_24px" data-name="icon/navigation/arrow_drop_down_24px" transform="translate(99)">
+          <rect id="Boundary-2" data-name="Boundary" width="24" height="24" fill="none"/>
+          <path id="_Color-7" data-name=" ↳Color" d="M0,0,5,5l5-5Z" transform="translate(7 10)"/>
+        </g>
+        <text id="_Subtitle_1" data-name="✏️ Subtitle 1" transform="translate(0 17)" fill="rgba(0,0,0,0.87)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.018em"><tspan x="0" y="0">California</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

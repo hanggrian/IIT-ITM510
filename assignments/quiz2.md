@@ -22,8 +22,8 @@
 > To determine if two arrays are equal you must compare each of the elements of
   the two arrays.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -32,8 +32,8 @@
 > Objects in an array are accessed with subscripts, just like any other data
   type in an array.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -42,8 +42,8 @@
 > An array can hold multiple values of several different types of data
   simultaneously.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -51,10 +51,10 @@
 
 > It is common practice to use a ______ variable as a size declarator.
 >
-> 1. `final`
-> 2. reference
-> 3. `static`
-> 4. `boolean`
+> 1.  `final`
+> 1.  reference
+> 1.  `static`
+> 1.  `boolean`
 
 **A.** `final`
 
@@ -62,11 +62,12 @@
 
 > A partially filled array is normally used ______.
 >
-> 1. when you know how many elements will be in the array but not what the
-     values are
-> 2. with an accompanying integer value that holds the number of items stored in the array
-> 3. with an accompanying parallel array
-> 4. when only a very small number of values need to be stored
+> 1.  when you know how many elements will be in the array but not what the
+      values are
+> 1.  with an accompanying integer value that holds the number of items stored
+      in the array
+> 1.  with an accompanying parallel array
+> 1.  when only a very small number of values need to be stored
 
 **B.** with an accompanying integer value that holds the number of items stored
 
@@ -139,12 +140,12 @@ for (int row = 0; row < numbers.length; row++) {
 > }
 > ```
 >
-> 1. The value variable will contain the highest value in the numbers array.
-> 2. The value variable will contain the lowest value in the numbers array.
-> 3. The value variable will contain the sum of all the values in the numbers
-     array.
-> 4. The value variable will contain the average of all the values in the
-     numbers array.
+> 1.  The value variable will contain the highest value in the numbers array.
+> 1.  The value variable will contain the lowest value in the numbers array.
+> 1.  The value variable will contain the sum of all the values in the numbers
+      array.
+> 1.  The value variable will contain the average of all the values in the
+      numbers array.
 
 **B.** The value variable will contain the lowest value in the numbers array.
 
@@ -152,10 +153,10 @@ for (int row = 0; row < numbers.length; row++) {
 
 > By default, Java initializes array elements to ______.
 >
-> 1. `-1`
-> 2. `0`
-> 3. `1`
-> 4. `100`
+> 1.  `-1`
+> 1.  `0`
+> 1.  `1`
+> 1.  `100`
 
 **B.** `0`
 
@@ -163,10 +164,10 @@ for (int row = 0; row < numbers.length; row++) {
 
 > Subscripting always starts with ______.
 >
-> 1. `-1`
-> 2. none of these
-> 3. `1`
-> 4. `0`
+> 1.  `-1`
+> 1.  none of these
+> 1.  `1`
+> 1.  `0`
 
 **D.** `0`
 
@@ -175,10 +176,10 @@ for (int row = 0; row < numbers.length; row++) {
 > A(n) ______ is used as an index to pinpoint a specific element within an
   array.
 >
-> 1. `boolean` value
-> 2. element
-> 3. argument
-> 4. subscript
+> 1.  `boolean` value
+> 1.  element
+> 1.  argument
+> 1.  subscript
 
 **D.** subscript
 
@@ -196,10 +197,10 @@ for (int row = 0; row < numbers.length; row++) {
 > }
 > ```
 >
-> 1. 200
-> 2. 180
-> 3. 190
-> 4. 170
+> 1.  200
+> 1.  180
+> 1.  190
+> 1.  170
 
 **B.** 180
 
@@ -216,9 +217,9 @@ for (int row = 0; row < numbers.length; row++) {
 >     a = 8;
 > ```
 >
-> 1. `a = 5`
-> 2. `a = 13`
-> 3. `a = 8`
-> 4. `a = 10`
+> 1.  `a = 5`
+> 1.  `a = 13`
+> 1.  `a = 8`
+> 1.  `a = 10`
 
 **A.** `a = 5`

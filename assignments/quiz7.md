@@ -17,10 +17,10 @@
 
 > A generic class
 >
-> 1. may create instances of any of its type parameters
-> 2. may not create instances of any of its type parameters
-> 3. may not implement interfaces that are generic
-> 4. None of the above
+> 1.  may create instances of any of its type parameters
+> 1.  may not create instances of any of its type parameters
+> 1.  may not implement interfaces that are generic
+> 1.  None of the above
 
 **B.** may not create instances of any of its type parameters
 
@@ -31,10 +31,10 @@
   subclass of `Number`. We can do this by declaring the type of the method
   parameter as
 >
-> 1. `Point<Number>`
-> 2. `Point<? super Number>`
-> 3. `Point<? extends Number>`
-> 4. `Point<? sub Number>`
+> 1.  `Point<Number>`
+> 1.  `Point<? super Number>`
+> 1.  `Point<? extends Number>`
+> 1.  `Point<? sub Number>`
 
 **C.** `Point<? extends Number>`
 
@@ -42,10 +42,10 @@
 
 > Which of the following statements are true?
 >
-> 1. You cannot instantiate an object of a generic type
-> 2. You cannot create arrays whose elements are instances of a generic type
-> 3. You can declare references to arrays whose elements are of a generic type
-> 4. All of the above
+> 1.  You cannot instantiate an object of a generic type
+> 1.  You cannot create arrays whose elements are instances of a generic type
+> 1.  You can declare references to arrays whose elements are of a generic type
+> 1.  All of the above
 
 **C.** You can declare references to arrays whose elements are of a generic type
 
@@ -53,15 +53,16 @@
 
 > Erasure is the process of
 >
-> 1. removing references to generic interfaces during execution
-> 2. returning the null value when the compiler cannot determine the value of a
-    generic reference
-> 3. replacing generic types with their upper bound, or with Object, during
-    compilation
-> 4. deleting generic types that cannot be correctly resolved during compilation
+> 1.  removing references to generic interfaces during execution
+> 1.  returning the null value when the compiler cannot determine the value of a
+      generic reference
+> 1.  replacing generic types with their upper bound, or with Object, during
+      compilation
+> 1.  deleting generic types that cannot be correctly resolved during
+      compilation
 
 **C.** replacing generic types with their upper bound, or with Object, during
-    compilation
+compilation
 
 ## Problem 5
 
@@ -69,10 +70,10 @@
   parameter `Point` objects whose type parameter is the `Number` class, or any
   superclass of `Number`. We can do this by writing
 >
-> 1. `Point<Number>`
-> 2. `Point<? super Number>`
-> 3. `Point<? extends Number>`
-> 4. `Point<? sub Number>`
+> 1.  `Point<Number>`
+> 1.  `Point<? super Number>`
+> 1.  `Point<? extends Number>`
+> 1.  `Point<? sub Number>`
 
 **B.** `Point<? super Number>`
 
@@ -81,10 +82,10 @@
 > The automatic conversion of a primitive type to the corresponding wrapper type
   when being passed as parameter to a generic class is called
 >
-> 1. type promotion
-> 2. type wrapping
-> 3. autoconversion
-> 4. autoboxing
+> 1.  type promotion
+> 1.  type wrapping
+> 1.  autoconversion
+> 1.  autoboxing
 
 **D.** autoboxing
 
@@ -97,10 +98,10 @@
 > }
 > ```
 >
-> 1. is a correct way to extend a class
-> 2. is incorrect because there is no type variable
-> 3. is incorrect because it is missing the wildcard symbol
-> 4. None of the above
+> 1.  is a correct way to extend a class
+> 1.  is incorrect because there is no type variable
+> 1.  is incorrect because it is missing the wildcard symbol
+> 1.  None of the above
 
 **A.** is a correct way to extend a class
 
@@ -108,10 +109,10 @@
 
 > An advantage of using generic types is
 >
-> 1. lower compile-time overhead
-> 2. increased portability of Java programs
-> 3. increased type-safety without the need to do typecasts at run time
-> 4. faster execution of programs that use generics
+> 1.  lower compile-time overhead
+> 1.  increased portability of Java programs
+> 1.  increased type-safety without the need to do typecasts at run time
+> 1.  faster execution of programs that use generics
 
 **C.** increased type-safety without the need to do typecasts at run time
 
@@ -137,10 +138,10 @@
 > Value<Number> nV1 = new Value<Double>(34.5);
 > ```
 >
-> 1. will cause a compiler error
-> 2. will compile correctly, but cause an exception at run time
-> 3. will compile and run correctly
-> 4. None of the above
+> 1.  will cause a compiler error
+> 1.  will compile correctly, but cause an exception at run time
+> 1.  will compile and run correctly
+> 1.  None of the above
 
 **A.** will cause a compiler error
 
@@ -149,9 +150,9 @@
 > The process used by the Java compiler to remove generic notation and
   substitute actual type arguments for formal type parameters is called
 >
-> 1. erasure
-> 2. removal
-> 3. substitution
-> 4. masking
+> 1.  erasure
+> 1.  removal
+> 1.  substitution
+> 1.  masking
 
 **A.** erasure

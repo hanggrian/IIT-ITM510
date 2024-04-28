@@ -22,7 +22,7 @@
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
@@ -45,11 +45,11 @@
 >
 > Entering menu option
 >
-> 1. will allow the user to create a new movie.
-> 2. will cause the movies to be listed.
-> 3. will allow the user to enter new values for a particular movie.
-> 4. will allow the user to delete a movie.
-> 5. will cause the application to exit.
+> 1.   will allow the user to create a new movie.
+> 1.   will cause the movies to be listed.
+> 1.   will allow the user to enter new values for a particular movie.
+> 1.   will allow the user to delete a movie.
+> 1.   will cause the application to exit.
 >
 > **Instructions**
 >
@@ -80,5 +80,5 @@
 >
 > ### Please submit the following:
 >
-> 1. A captured image of your screen showing your program’s output
-> 2. The compressed (zipped) folder containing your **_entire_** project
+> 1.   A captured image of your screen showing your program’s output
+> 1.   The compressed (zipped) folder containing your **_entire_** project

@@ -18,7 +18,7 @@
 
 > In an inheritance relationship ______.
 >
-> 1. The superclass constructor always executes before the subclass constructor
+> 1.  The superclass constructor always executes before the subclass constructor
 
 **A.** The superclass constructor always executes before the subclass constructor.
 
@@ -26,8 +26,8 @@
 
 > In a class hierarchy ______.
 >
-> 2. the more general classes are toward the top of the tree and the more
-     specialized classes are toward the bottom
+> 2.  the more general classes are toward the top of the tree and the more
+      specialized classes are toward the bottom
 
 **B.** the more general classes are toward the top of the tree and the more
        specialized classes are toward the bottom
@@ -37,7 +37,7 @@
 > Which of the following is the operator used to determine whether an object is
   an instance of a particular class?
 >
-> 1. `instanceOf`
+> 1.  `instanceOf`
 
 **A.** `instanceOf`
 
@@ -46,7 +46,7 @@
 > If you don't provide an access specifier for a class member, the class member
   is given ______ access by default.
 >
-> 3. package
+> 3.  package
 
 **C.** package
 
@@ -75,7 +75,7 @@
 > item1.method1();
 > ```
 >
-> 1. This is an error and will cause the program to crash.
+> 1.  This is an error and will cause the program to crash.
 
 **A.** This is an error and will cause the program to crash.
 
@@ -84,7 +84,7 @@
 > ______ is a special type of expression used to create an object that
   implements a functional interface.
 >
-> 2. lambda
+> 2.  lambda
 
 **B.** lambda
 
@@ -92,7 +92,7 @@
 
 > A subclass can directly access ______.
 >
-> 3. only public and protected members of the superclass
+> 3.  only public and protected members of the superclass
 
 **C.** only public and protected members of the superclass
 
@@ -100,7 +100,7 @@
 
 > Which key word indicates that a class inherits from another class?
 >
-> 3. `extends`
+> 3.  `extends`
 
 **C.** `extends`
 
@@ -116,7 +116,7 @@
 > }
 > ```
 >
-> 1. Line 4
+> 1.  Line 4
 
 **A.** Line 4
 
@@ -125,8 +125,8 @@
 > Inheritance involves a subclass, which is the general class, and a superclass,
   which is the specialized class.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -135,8 +135,8 @@
 > If two methods in the same class have the same name but different signatures,
   the second overrides the first.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -144,7 +144,7 @@
 
 > A functional interface is simply an interface that has one abstract method.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True

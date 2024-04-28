@@ -11,11 +11,11 @@
 >
 > **Submit a screenshot of your Java version from VS Code**
 >
-> 1. Run VS Code
-> 2. On the main menu, Click Terminal and then New Terminal
-> 3. In the terminal window below, type the command: java --version
-> 4. Press enter
-> 5. Take a screenshot of your version and submit the image.
+> 1.   Run VS Code
+> 1.   On the main menu, Click Terminal and then New Terminal
+> 1.   In the terminal window below, type the command: java --version
+> 1.   Press enter
+> 1.   Take a screenshot of your version and submit the image.
 
 <img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw0/screenshot.png">
 

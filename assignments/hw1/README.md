@@ -41,16 +41,16 @@
   the class, write a separate program that creates three Employee objects to
   hold the following data:
 >
-> | Name | ID Number | Department | Position |
-> | --- | --- | --- | --- |
-> | Susan Meyers | 8647765 | IT | Sr Programmer/Analyst |
-> | Ahmad Karim | 5424130 | Purchasing | Manager |
-> | Alfonso Kirkpatrick | 1243452 | Sales | Vice President |
+> Name | ID Number | Department | Position
+> --- | --- | --- | ---
+> Susan Meyers | 8647765 | IT | Sr Programmer/Analyst
+> Ahmad Karim | 5424130 | Purchasing | Manager
+> Alfonso Kirkpatrick | 1243452 | Sales | Vice President
 >
 > The program should store this data in the three objects and then display the
   data for each employee on the screen.
 >
 > ### Please submit the following:
 >
-> 1. The compressed (zipped) folder containing your **_entire_** project
-> 2. A captured image of your screen showing your program’s output
+> 1.   The compressed (zipped) folder containing your **_entire_** project
+> 1.   A captured image of your screen showing your program’s output

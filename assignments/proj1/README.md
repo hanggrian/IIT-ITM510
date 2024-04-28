@@ -20,7 +20,7 @@
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/diagram1.png"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
@@ -67,7 +67,8 @@
 >
 > **Update**
 >
-> - The text of the Edit button should change to "Cancel Edit" in <span style="color: red;">**red**</span>.
+> - The text of the Edit button should change to "Cancel Edit" in
+    <span style="color: red;">**red**</span>.
 > - The Previous, New, Delete and Next buttons should be disabled.
 > - If the user clicks Cancel, the GUI View should return to 'Read' state.
 > - If the user clicks Save, the movie data should be updated and the GUI View
@@ -75,7 +76,8 @@
 >
 > **Delete**
 >
-> - The text of the Delete button should change to "Yes, delete" in <span style="color: red;">**red**</span>.
+> - The text of the Delete button should change to "Yes, delete" in
+    <span style="color: red;">**red**</span>.
 > - The New, Edit and Save buttons should be disabled.
 > - If the user clicks Previous or Next, the GUI View should return to 'Read'
     state.
@@ -91,7 +93,7 @@
   MovieFileConverter utility supplied with this project to create the serialized
   movie objects.
 >
-> **WARNING**: Do <span style="color: red;">**NOT**</span> alter the Model,
+> **WARNING:** Do <span style="color: red;">**NOT**</span> alter the Model,
   Controller or Movie classes.
 >
 > For assistance with the Model-View-Controller design pattern
@@ -104,6 +106,6 @@
 >
 > ### Please submit the following:
 >
-> 1. Captured images of your screen showing your program performing each CRUD
-     action.
-> 2. The compressed (zipped) folder containing your **_entire_** project
+> 1.   Captured images of your screen showing your program performing each CRUD
+      action.
+> 1.   The compressed (zipped) folder containing your **_entire_** project

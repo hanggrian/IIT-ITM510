@@ -15,8 +15,8 @@
 > The ability to catch multiple types of exceptions with a single `catch` clause
   is known as multi-catch and was introduced in Java 7.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -25,8 +25,8 @@
 > A `catch` clause that uses a parameter variable of the `Exception` type is
   capable of catching any exception that extends the `Error` class.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -35,8 +35,8 @@
 > When an object is serialized, it is converted into a series of bytes that
   contain the object's data.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -59,10 +59,10 @@
 > System.out.printIn (number);
 > ```
 >
-> 1. -1
-> 2. 0
-> 3. 1
-> 4. 99
+> 1.  -1
+> 1.  0
+> 1.  1
+> 1.  99
 
 **B.** 0
 
@@ -105,10 +105,10 @@
 
 > An exception's default error message can be retrieved by using the
 >
-> 1. `getMessage()`
-> 2. `getErrorMessage()`
-> 3. `getDefaultMessage()`
-> 4. `getDefaultErrorMessage()`
+> 1.  `getMessage()`
+> 1.  `getErrorMessage()`
+> 1.  `getDefaultMessage()`
+> 1.  `getDefaultErrorMessage()`
 
 **A.** `getMessage()`
 
@@ -116,10 +116,10 @@
 
 > A file that contains raw binary data is known as a ______.
 >
-> 1. binary file
-> 2. machine file
-> 3. serial file
-> 4. raw data file
+> 1.  binary file
+> 1.  machine file
+> 1.  serial file
+> 1.  raw data file
 
 **A.** binary file
 
@@ -131,10 +131,10 @@
 > System.out.println(e.getMessage());
 > ```
 >
-> 1. It prints the code that caused the exception.
-> 2. It prints the stack trace.
-> 3. It prints the error message for an exception.
-> 4. It overrides the tostring method.
+> 1.  It prints the code that caused the exception.
+> 1.  It prints the stack trace.
+> 1.  It prints the error message for an exception.
+> 1.  It overrides the tostring method.
 
 **C.** It prints the error message for an exception.
 
@@ -170,10 +170,10 @@
 > 1.0
 > ```
 >
-> 1. 18.5
-> 2. 0.0
-> 3. 35.5
-> 4. 75.0
+> 1.  18.5
+> 1.  0.0
+> 1.  35.5
+> 1.  75.0
 
 **C.** 35.5
 
@@ -182,10 +182,10 @@
 > The `IllegalArgumentException` class extends the `RuntimeException` class and
   is, therefore, ______.
 >
-> 1. a checked exception class
-> 2. an unchecked exception class
-> 3. never used directly
-> 4. None of these
+> 1.  a checked exception class
+> 1.  an unchecked exception class
+> 1.  never used directly
+> 1.  None of these
 
 **B.** an unchecked exception class
 
@@ -194,10 +194,10 @@
 > If your code does not handle an exception when it is thrown, ______ prints an
   error message and crashes the program.
 >
-> 1. the Java error handler
-> 2. multi-catch
-> 3. default exception handler
-> 4. `try` statement
+> 1.  the Java error handler
+> 1.  multi-catch
+> 1.  default exception handler
+> 1.  `try` statement
 
 **C.** default exception handler
 
@@ -205,9 +205,9 @@
 
 > The `RandomAccessFile` class treats a file as a stream of ______.
 >
-> 1. bytes
-> 2. characters
-> 3. integers
-> 4. data
+> 1.  bytes
+> 1.  characters
+> 1.  integers
+> 1.  data
 
 **A.** bytes
