@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 344 258">
+      <image width="344" height="258" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <filter id="Rectangle" x="411.5" y="40.5" width="179" height="351" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="398" y="25" width="206" height="378" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="404" y="36" width="194" height="366" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="164" height="336" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-wireframe1">
+      <rect width="600" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="wireframe1" clip-path="url(#clip-wireframe1)">
+    <rect width="600" height="400" fill="#fff"/>
+    <g id="Group_2" data-name="Group 2">
+      <g id="Rectangle_1" data-name="Rectangle 1" fill="#e0e0e0" stroke="#707070" stroke-width="1">
+        <rect width="600" height="30" stroke="none"/>
+        <rect x="0.5" y="0.5" width="599" height="29" fill="none"/>
+      </g>
+      <text id="File" transform="translate(20 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">File</tspan></text>
+      <text id="Edit" transform="translate(62 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Edit</tspan></text>
+      <text id="View" transform="translate(106 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">View</tspan></text>
+      <text id="Window" transform="translate(156 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Window</tspan></text>
+      <text id="Help" transform="translate(227 20)" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Help</tspan></text>
+    </g>
+    <g id="_Light_Card_ΩElements_Image_A.Image" data-name=" Light 🌕/ Card/ΩElements/🖼 Image/A.Image" transform="translate(15 43)">
+      <rect id="_Image" data-name="↳ 🖼 Image" width="384" height="289" fill="url(#pattern)"/>
+      <rect id="_States" data-name="↳ 💡States" width="384" height="289" fill="none"/>
+    </g>
+    <g id="Group_1" data-name="Group 1">
+      <g id="Light_Button_2._Outlined_A._Text_Enabled" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" transform="translate(15 350)">
+        <g id="Container">
+          <g id="_Color" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+            <rect width="107" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="106" height="31" rx="3.5" fill="none"/>
+          </g>
+          <g id="_States-2" data-name="↳ 💡States">
+            <rect id="States_Light_Surface_containers_Primary_Content" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+          </g>
+        </g>
+        <text id="_Label" data-name="↳ ✏️ Label" transform="translate(16 21)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">PREVIOUS</tspan></text>
+      </g>
+      <g id="Light_Button_2._Outlined_A._Text_Enabled-2" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" transform="translate(328 350)">
+        <g id="Container-2" data-name="Container">
+          <g id="_Color-2" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+            <rect width="71" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="70" height="31" rx="3.5" fill="none"/>
+          </g>
+          <g id="_States-3" data-name="↳ 💡States">
+            <rect id="States_Light_Surface_containers_Primary_Content-2" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+          </g>
+        </g>
+        <text id="_Label-2" data-name="↳ ✏️ Label" transform="translate(16 21)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">NEXT</tspan></text>
+      </g>
+      <text id="_path_to_full_image.png" data-name="/path/to/full/image.png" transform="translate(149 371)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.007em"><tspan x="0" y="0">/path/to/full/image.png</tspan></text>
+    </g>
+    <g id="Light_Menus_3_States_1._Large_Scroll_Dropdown" data-name="Light 🌕/ Menus/ (3 States) 1. Large Scroll Dropdown" transform="translate(419 43)">
+      <g id="Light_Elevation_00dp" data-name="Light 🌕/Elevation/00dp">
+        <g id="Shadow">
+          <g transform="matrix(1, 0, 0, 1, -419, -43)" filter="url(#Rectangle)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-4" data-name="Rectangle" width="164" height="336" rx="4" transform="translate(419 43)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -419, -43)" filter="url(#Rectangle-2)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-5" data-name="Rectangle" width="164" height="336" rx="4" transform="translate(419 43)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -419, -43)" filter="url(#Rectangle-3)" style="mix-blend-mode: multiply;isolation: isolate">
+            <rect id="Rectangle-6" data-name="Rectangle" width="164" height="336" rx="4" transform="translate(419 43)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Container-3" data-name="Container" width="164" height="336" rx="4" fill="#fff"/>
+      <g id="List" clip-path="url(#clip-path)">
+        <g transform="translate(-60 -318)">
+          <g id="Light_Lists_Single-line_" data-name="Light 🌕/ Lists/Single-line/" transform="translate(60 318)">
+            <rect id="_Elevation" data-name="☁️ Elevation" width="328" height="48" fill="none"/>
+            <g id="_Icon" data-name="📍Icon" transform="translate(288 12)">
+              <rect id="Boundary" width="24" height="24" fill="none"/>
+              <path id="_Color-3" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(0,0,0,0.6)"/>
+            </g>
+            <rect id="_States-4" data-name="💡States" width="328" height="48" fill="none"/>
+            <text id="_Subtitle_1" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Image 1</tspan></text>
+          </g>
+        </g>
+        <g transform="translate(-60 -270)">
+          <g id="Light_Lists_Single-line_2" data-name="Light 🌕/ Lists/Single-line/" transform="translate(60 318)">
+            <rect id="_Elevation-2" data-name="☁️ Elevation" width="328" height="48" fill="#fff"/>
+            <g id="_Icon-2" data-name="📍Icon" transform="translate(288 12)">
+              <rect id="Boundary-2" data-name="Boundary" width="24" height="24" fill="none"/>
+              <path id="_Color-4" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(0,0,0,0.6)"/>
+            </g>
+            <rect id="_States-5" data-name="💡States" width="328" height="48" fill="none"/>
+            <text id="_Subtitle_1-2" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Image 2</tspan></text>
+          </g>
+        </g>
+        <g transform="translate(-60 -222)">
+          <g id="Light_Lists_Single-line_3" data-name="Light 🌕/ Lists/Single-line/" transform="translate(60 318)">
+            <rect id="_Elevation-3" data-name="☁️ Elevation" width="328" height="48" fill="#fff"/>
+            <g id="_Icon-3" data-name="📍Icon" transform="translate(288 12)">
+              <rect id="Boundary-3" data-name="Boundary" width="24" height="24" fill="none"/>
+              <path id="_Color-5" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(0,0,0,0.6)"/>
+            </g>
+            <rect id="_States-6" data-name="💡States" width="328" height="48" fill="none"/>
+            <text id="_Subtitle_1-3" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Image 3</tspan></text>
+          </g>
+        </g>
+        <g transform="translate(-60 -174)">
+          <g id="Light_Lists_Single-line_4" data-name="Light 🌕/ Lists/Single-line/" transform="translate(60 318)">
+            <rect id="_Elevation-4" data-name="☁️ Elevation" width="328" height="48" fill="#fff"/>
+            <g id="_Icon-4" data-name="📍Icon" transform="translate(288 12)">
+              <rect id="Boundary-4" data-name="Boundary" width="24" height="24" fill="none"/>
+              <path id="_Color-6" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)"/>
+            </g>
+            <rect id="_States-7" data-name="💡States" width="328" height="48" fill="rgba(0,0,0,0.08)"/>
+            <text id="_Subtitle_1-4" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Image 4</tspan></text>
+          </g>
+        </g>
+        <g transform="translate(-60 -126)">
+          <g id="Light_Lists_Single-line_5" data-name="Light 🌕/ Lists/Single-line/" transform="translate(60 318)">
+            <rect id="_Elevation-5" data-name="☁️ Elevation" width="328" height="48" fill="#fff"/>
+            <g id="_Icon-5" data-name="📍Icon" transform="translate(288 12)">
+              <rect id="Boundary-5" data-name="Boundary" width="24" height="24" fill="none"/>
+              <path id="_Color-7" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(0,0,0,0.6)"/>
+            </g>
+            <rect id="_States-8" data-name="💡States" width="328" height="48" fill="none"/>
+            <text id="_Subtitle_1-5" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Image 5</tspan></text>
+          </g>
+        </g>
+        <g transform="translate(-60 -78)">
+          <g id="Light_Lists_Single-line_6" data-name="Light 🌕/ Lists/Single-line/" transform="translate(60 318)">
+            <rect id="_Elevation-6" data-name="☁️ Elevation" width="328" height="48" fill="#fff"/>
+            <g id="_Icon-6" data-name="📍Icon" transform="translate(288 12)">
+              <rect id="Boundary-6" data-name="Boundary" width="24" height="24" fill="none"/>
+              <path id="_Color-8" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(0,0,0,0.6)"/>
+            </g>
+            <rect id="_States-9" data-name="💡States" width="328" height="48" fill="none"/>
+            <text id="_Subtitle_1-6" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Image 6</tspan></text>
+          </g>
+        </g>
+        <g transform="translate(-60 -30)">
+          <g id="Light_Lists_Single-line_7" data-name="Light 🌕/ Lists/Single-line/" transform="translate(60 318)">
+            <rect id="_Elevation-7" data-name="☁️ Elevation" width="328" height="48" fill="#fff"/>
+            <g id="_Icon-7" data-name="📍Icon" transform="translate(288 12)">
+              <rect id="Boundary-7" data-name="Boundary" width="24" height="24" fill="none"/>
+              <path id="_Color-9" data-name=" ↳Color" d="M10,18,8.55,16.705C3.4,12.124,0,9.1,0,5.4A5.4,5.4,0,0,1,5.5,0,6.037,6.037,0,0,1,10,2.05,6.037,6.037,0,0,1,14.5,0,5.4,5.4,0,0,1,20,5.4c0,3.708-3.4,6.729-8.55,11.32Z" transform="translate(2 3)" fill="rgba(0,0,0,0.6)"/>
+            </g>
+            <rect id="_States-10" data-name="💡States" width="328" height="48" fill="none"/>
+            <text id="_Subtitle_1-7" data-name="✏️ Subtitle 1" transform="translate(16 30)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.031em"><tspan x="0" y="0">Image 7</tspan></text>
+          </g>
+        </g>
+      </g>
+      <rect id="Scrollbar" width="4" height="40" rx="2" transform="translate(156 10)" fill="rgba(0,0,0,0.38)"/>
+    </g>
+  </g>
+</svg>
