@@ -6,9 +6,9 @@
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/screenshot1.png"><br><small>Screenshot 1 &mdash; App</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw2/screenshot1.png"><br><small>Screenshot 1 &mdash; App</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw2/screenshot2.png"><br><small>Screenshot 2 &mdash; Tests</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw2/screenshot2.png"><br><small>Screenshot 2 &mdash; Tests</small>
 
 > ## Instructions
 >

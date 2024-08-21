@@ -11,8 +11,8 @@
 
 See supplemental content:
 
-- [Testing Java with JUnit and TestNG.pdf](https://github.com/hendraanggrian/IIT-ITM510/blob/assets/lect3_2.pdf)
-- [Testing Java.pdf](https://github.com/hendraanggrian/IIT-ITM510/blob/assets/lect3_1.pdf)
+- [Testing Java with JUnit and TestNG.pdf](https://github.com/hanggrian/IIT-ITM510/blob/assets/lect3_2.pdf)
+- [Testing Java.pdf](https://github.com/hanggrian/IIT-ITM510/blob/assets/lect3_1.pdf)
 
 ## Problem 1
 

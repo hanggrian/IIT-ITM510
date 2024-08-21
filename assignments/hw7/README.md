@@ -8,21 +8,21 @@
 
 ## Wireframes
 
-<img width="480" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw7/wireframe1.svg"><br><small>Wireframe 1 &mdash; Main window</small>
+<img width="480" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw7/wireframe1.svg"><br><small>Wireframe 1 &mdash; Main window</small>
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot1.png"><br><small>Screenshot 1 &mdash; Empty collection</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot1.png"><br><small>Screenshot 1 &mdash; Empty collection</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot2.png"><br><small>Screenshot 2 &mdash; Import pictures</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot2.png"><br><small>Screenshot 2 &mdash; Import pictures</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot3.png"><br><small>Screenshot 3 &mdash; Expanded window</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot3.png"><br><small>Screenshot 3 &mdash; Expanded window</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot4.png"><br><small>Screenshot 4 &mdash; Safeguarding measure</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw7/screenshot4.png"><br><small>Screenshot 4 &mdash; Safeguarding measure</small>
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw7/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw7/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >

@@ -2,21 +2,21 @@
 
 ## Wireframes
 
-<img width="480" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw8/wireframe1.svg"><br><small>Wireframe 1 &mdash; Main window</small>
+<img width="480" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw8/wireframe1.svg"><br><small>Wireframe 1 &mdash; Main window</small>
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot1.png"><br><small>Screenshot 1 &mdash; File not loaded</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot1.png"><br><small>Screenshot 1 &mdash; File not loaded</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot2.png"><br><small>Screenshot 2 &mdash; An unbalanced input</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot2.png"><br><small>Screenshot 2 &mdash; An unbalanced input</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot3.png"><br><small>Screenshot 3 &mdash; Another unbalanced input</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot3.png"><br><small>Screenshot 3 &mdash; Another unbalanced input</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot4.png"><br><small>Screenshot 4 &mdash; Balanced input</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw8/screenshot4.png"><br><small>Screenshot 4 &mdash; Balanced input</small>
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw8/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw8/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >

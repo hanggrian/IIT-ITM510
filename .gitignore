@@ -2,8 +2,8 @@
 .DS_Store
 ._*
 
-# VSCode
-bin/
-
 # draw.io
 .$*.drawio*
+
+# VSCode
+bin/

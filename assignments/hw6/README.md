@@ -8,21 +8,21 @@
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state, resetting movies and saving to file</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state, resetting movies and saving to file</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot2.png"><br><small>Screenshot 2 &mdash; Loaded file</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot2.png"><br><small>Screenshot 2 &mdash; Loaded file</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot3.png"><br><small>Screenshot 3 &mdash; Creating a movie, then navigate</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot3.png"><br><small>Screenshot 3 &mdash; Creating a movie, then navigate</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot4.png"><br><small>Screenshot 4 &mdash; Updating a movie</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot4.png"><br><small>Screenshot 4 &mdash; Updating a movie</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot5.png"><br><small>Screenshot 5 &mdash; Deleting a movie</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot5.png"><br><small>Screenshot 5 &mdash; Deleting a movie</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot6.png"><br><small>Screenshot 6 &mdash; Safeguarding measures</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw6/screenshot6.png"><br><small>Screenshot 6 &mdash; Safeguarding measures</small>
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw6/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw6/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >

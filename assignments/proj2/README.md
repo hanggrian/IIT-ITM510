@@ -6,29 +6,29 @@
 
 ## Wireframes
 
-<img width="480" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/wireframe1.svg"><br><small>Wireframe 1 &mdash; Main window</small>
+<img width="480" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/wireframe1.svg"><br><small>Wireframe 1 &mdash; Main window</small>
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot2.png"><br><small>Screenshot 2 &mdash; Randomize functionality</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot2.png"><br><small>Screenshot 2 &mdash; Randomize functionality</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot3.png"><br><small>Screenshot 3 &mdash; Reset all functionality</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot3.png"><br><small>Screenshot 3 &mdash; Reset all functionality</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot4.png"><br><small>Screenshot 4 &mdash; READ state with edging index</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot4.png"><br><small>Screenshot 4 &mdash; READ state with edging index</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot5.png"><br><small>Screenshot 5 &mdash; CREATE state</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot5.png"><br><small>Screenshot 5 &mdash; CREATE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot6.png"><br><small>Screenshot 6 &mdash; UPDATE state</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot6.png"><br><small>Screenshot 6 &mdash; UPDATE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot7.png"><br><small>Screenshot 7 &mdash; DELETE state</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot7.png"><br><small>Screenshot 7 &mdash; DELETE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot8.png"><br><small>Screenshot 8 &mdash; Safeguarding measure</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/screenshot8.png"><br><small>Screenshot 8 &mdash; Safeguarding measure</small>
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj2/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj2/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >

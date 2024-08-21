@@ -4,11 +4,11 @@
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw9/screenshot1.png"><br><small>Screenshot 1 &mdash; Main window</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw9/screenshot1.png"><br><small>Screenshot 1 &mdash; Main window</small>
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw9/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw9/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
@@ -17,7 +17,7 @@
 > Rewrite TaskThreadDemo.java to display the output in a text area, as shown in
   the figure below.
 >
-> ![](https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw9.png)
+> ![](https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw9.png)
 >
 > ### Please submit the following:
 >

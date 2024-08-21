@@ -6,21 +6,21 @@
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state, empty library</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot1.png"><br><small>Screenshot 1 &mdash; Clean state, empty library</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot2.png"><br><small>Screenshot 2 &mdash; READ state, loaded file from txt</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot2.png"><br><small>Screenshot 2 &mdash; READ state, loaded file from txt</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot3.png"><br><small>Screenshot 3 &mdash; CREATE state</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot3.png"><br><small>Screenshot 3 &mdash; CREATE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot4.png"><br><small>Screenshot 4 &mdash; UPDATE state</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot4.png"><br><small>Screenshot 4 &mdash; UPDATE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot5.png"><br><small>Screenshot 5 &mdash; DELETE state</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot5.png"><br><small>Screenshot 5 &mdash; DELETE state</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot6.png"><br><small>Screenshot 6 &mdash; Safeguarding measure</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1/screenshot6.png"><br><small>Screenshot 6 &mdash; Safeguarding measure</small>
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
@@ -32,7 +32,7 @@
 > Following the attached wireframe diagram, create JavaFX GUI View to replace
   the text-based View.
 >
-> ![](https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/proj1.png)
+> ![](https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/proj1.png)
 >
 > When run your application should open and load movies from a binary file,
   **movieDb.dat**, containing serialized movie objects. Once the data is loaded,

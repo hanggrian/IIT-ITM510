@@ -6,19 +6,19 @@
 
 ## Screenshots
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot1.png"><br><small>Screenshot 1 &mdash; Creating a movie</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot1.png"><br><small>Screenshot 1 &mdash; Creating a movie</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot2.png"><br><small>Screenshot 2 &mdash; Navigating movies</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot2.png"><br><small>Screenshot 2 &mdash; Navigating movies</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot3.png"><br><small>Screenshot 3 &mdash; Updating a movie</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot3.png"><br><small>Screenshot 3 &mdash; Updating a movie</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot4.png"><br><small>Screenshot 4 &mdash; Deleting a movie</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot4.png"><br><small>Screenshot 4 &mdash; Deleting a movie</small>
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot5.png"><br><small>Screenshot 5 &mdash; Safeguarding measures</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw5/screenshot5.png"><br><small>Screenshot 5 &mdash; Safeguarding measures</small>
 
 ## Diagrams
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-ITM510/raw/assets/assignments/hw5/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
+<img width="640" src="https://github.com/hanggrian/IIT-ITM510/raw/assets/assignments/hw5/diagram1.svg"><br><small>Diagram 1 &mdash; UML</small>
 
 > ## Instructions
 >
